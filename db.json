@@ -1,4 +1,20 @@
 {
+  "auth":{
+  	"login":{
+  		"access_token":"eyJhbGciOiJSUzI1NiIsImtpZCI6ImEzZDliYzk2Y2MwNzA1YzVkY2EyMjcyNGUyNzRjYzViIiwidHlwIjoiSldUIn0.eyJuYmYiOjE1NDAyNTAwNzIsImV4cCI6MTU3MTc4NjA3MiwiaXNzIjoiaHR0cDovL2Rldi5pbnNpZ2h0cGF5bWVudHMuY29tOjgxODciLCJhdWQiOlsiaHR0cDovL2Rldi5pbnNpZ2h0cGF5bWVudHMuY29tOjgxODcvcmVzb3VyY2VzIiwicnlkb0RyaXZlcl9hcGkiXSwiY2xpZW50X2lkIjoicnlkb19kcml2ZXJfdGVzdCIsInN1YiI6Ijk0ODA0NTkyLTdmNWQtNGNkZC04OWE3LTA1ZTc1OTQ3ZmVkYSIsImF1dGhfdGltZSI6MTU0MDI1MDA3MiwiaWRwIjoibG9jYWwiLCJzY29wZSI6WyJwcm9maWxlIiwicnlkb0RyaXZlcl9hcGkiXSwiYW1yIjpbInB3ZCJdfQ.G3WXCm3N7NHLeKGJV1mfyKi_hHUJTVGdzMPeGLbhh8RuYoe0l2c0F3ldIdWrbdozmW_h1-SfBxN54lss-tNNCtdKi-5nnOj8SGM7vToWPL75Buz06F9JNBwdGyY0FuWGi6IFIE4NbIT_7qjHVa_ogL3I96jTWD4wdbpWWE_Z0B-qcxBvTPEodtJFFhlzdnBFyIXxKM9qTUDwE3q5EwB7W2gHCGpOOcLp0iYsWfz2Yz6YMQ-yeqt1vLGgzJFqseKjK4YQ1CXqvAvIK0FoPfd8dvCmEGICh1RK9ijKPtauVigtcrfMV2669dd8gZqf9w9f9VgY85iJKOoaLG039aL_YQ",
+  		"expires_in": 1540263656,
+  		"token_type":"bearer"
+  	},
+  	"signup":{
+
+  	},
+  	"reset":{
+
+  	},
+  	"changepassword":{
+  		
+  	}
+  },
   "posts":[
     {
       "id" : 0,
