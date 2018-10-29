@@ -890,7 +890,7 @@
           "guide": "Select the signee form the company",
           "code":"QIMG2559",
           "root":"QIMG9599",
-          "type": "dropdown",
+          "type": "dropdown"
           
         },
         {
