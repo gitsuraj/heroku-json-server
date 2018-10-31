@@ -301,5 +301,37 @@
     "sent_on": "2016-11-26T01:14:43 -11:00",
     "acknowledged_on": "2017-11-23T03:33:33 -11:00"
   }
+],
+"messages": [
+    {
+        "id": 1,
+        "sender": "Melanio Cetafe",
+        "subject": "Termination Contract",
+        "client": "Shark Tank",
+        "type": "Contract",
+        
+    },
+    {
+        "id": 2,
+        "sender": "Joan Boyd",
+        "subject": "Workplace safety course",
+        "client": "Metanyx",
+        "type": "Courses",
+    },
+    {
+        "id": 3,
+        "sender": "Frances Richards",
+        "subject": "Abandonment-Letter",
+        "client": "Aquafix",
+        "type": "Letter",
+    },
+    {
+        "id": 4,
+        "sender": "Julia Long",
+        "subject": "Intellectual Property Test",
+        "client": "Protofic",
+        "type": "Test",
+    }
 ]
+
 }
