@@ -21,294 +21,917 @@
     }
   ],
   "letters":[
-  {
-    "_id": "5bcfa9ca7b10baa9b28fcbde",
-    "guid": "d2f5bdd4-0133-4d8e-a3a2-70be53061ac1",
-    "status": "sent",
-    "worker_name": "Vicky Lancaster",
-    "template": "Letter",
-    "name": "SUSTENZA Letter",
-    "sent_on": "2018-08-17T12:12:03 -10:00",
-    "acknowledged_on": "2017-03-26T04:03:03 -11:00"
-  },
-  {
-    "_id": "5bcfa9caf32a8b74431d016e",
-    "guid": "d13ddac7-45e2-4b52-8300-837be154e044",
-    "status": "cancelled",
-    "worker_name": "Lucille Pitts",
-    "template": "Letter",
-    "name": "ZENTILITY Letter",
-    "sent_on": "2015-09-21T08:47:27 -10:00",
-    "acknowledged_on": "2017-05-04T01:59:50 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca9ab66c74340fb13b",
-    "guid": "8319198a-fcb0-41fb-aaef-f684244cddbe",
-    "status": "draft",
-    "worker_name": "Casey Avery",
-    "template": "Letter",
-    "name": "ISOSPHERE Letter",
-    "sent_on": "2015-07-15T05:49:24 -10:00",
-    "acknowledged_on": "2017-09-02T03:27:02 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca649b96e0bebb2f31",
-    "guid": "52745e6a-9657-4f20-a6e0-23b261276a30",
-    "status": "sent",
-    "worker_name": "Caitlin Robertson",
-    "template": "Induction Letter",
-    "name": "MAXEMIA Letter",
-    "sent_on": "2016-04-27T05:19:40 -10:00",
-    "acknowledged_on": "2018-10-21T05:58:41 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca01a846a788233d6e",
-    "guid": "c1c8c9b0-cc16-44f3-a97f-b60dc5e91a01",
-    "status": "acknowledge",
-    "worker_name": "Chambers Whitehead",
-    "template": "Terminal Letter",
-    "name": "GAZAK Letter",
-    "sent_on": "2018-09-17T04:12:02 -10:00",
-    "acknowledged_on": "2015-10-20T04:32:05 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca722af962481a126e",
-    "guid": "37fe11e7-aec2-4737-8d38-07d3dfa84a90",
-    "status": "sent",
-    "worker_name": "Hays Meyer",
-    "template": "Letter",
-    "name": "EVENTIX Letter",
-    "sent_on": "2015-06-17T07:02:33 -10:00",
-    "acknowledged_on": "2015-05-02T06:52:44 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca84a8b002971f50b4",
-    "guid": "e4c17c53-2685-406e-b3ed-b7051b7ae257",
-    "status": "cancelled",
-    "worker_name": "Frankie Estrada",
-    "template": "Letter",
-    "name": "MIRACLIS Letter",
-    "sent_on": "2017-02-21T10:39:24 -11:00",
-    "acknowledged_on": "2016-12-24T07:11:05 -11:00"
-  },
-  {
-    "_id": "5bcfa9cae8c084097469f7b5",
-    "guid": "72958647-a4e0-4f45-883f-611d5202068a",
-    "status": "sent",
-    "worker_name": "Ada Gates",
-    "template": "Terminal Letter",
-    "name": "DEEPENDS Letter",
-    "sent_on": "2016-02-09T04:43:35 -11:00",
-    "acknowledged_on": "2014-08-03T02:24:03 -10:00"
-  },
-  {
-    "_id": "5bcfa9cae5320dae3d3d2615",
-    "guid": "3f58ab53-2475-4453-873d-8fee613631e2",
-    "status": "draft",
-    "worker_name": "Bonnie Christian",
-    "template": "Letter",
-    "name": "CENTREXIN Letter",
-    "sent_on": "2016-12-13T05:19:07 -11:00",
-    "acknowledged_on": "2015-10-13T12:47:00 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca6d03f5c1e2102ef9",
-    "guid": "a844b61c-cff0-46c4-a598-b77a7ff20912",
-    "status": "sent",
-    "worker_name": "Bradshaw Bernard",
-    "template": "Terminal Letter",
-    "name": "INTERGEEK Letter",
-    "sent_on": "2014-06-26T03:28:12 -10:00",
-    "acknowledged_on": "2014-10-16T04:04:34 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca2d7db94f0cbbacf7",
-    "guid": "05244579-86eb-480c-89a8-3d2115f5daa2",
-    "status": "cancelled",
-    "worker_name": "Adeline Banks",
-    "template": "Letter",
-    "name": "ZILLATIDE Letter",
-    "sent_on": "2017-02-17T10:04:39 -11:00",
-    "acknowledged_on": "2017-10-18T11:21:27 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca82f2203c910485ec",
-    "guid": "301d5bc0-6f06-453d-b5e7-c7bcaab6dd7a",
-    "status": "acknowledge",
-    "worker_name": "Reese Caldwell",
-    "template": "Terminal Letter",
-    "name": "MATRIXITY Letter",
-    "sent_on": "2016-06-02T09:46:34 -10:00",
-    "acknowledged_on": "2016-05-25T07:52:14 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca51190245b61d8fa5",
-    "guid": "c8bee284-4efb-4c56-b851-14c62176fc8d",
-    "status": "cancelled",
-    "worker_name": "Lacy Poole",
-    "template": "Induction Letter",
-    "name": "FROLIX Letter",
-    "sent_on": "2017-12-03T03:00:18 -11:00",
-    "acknowledged_on": "2014-03-21T09:42:21 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca3f8c43ebc9fb1e70",
-    "guid": "b37c434e-91f7-42d3-8daf-2d012b44557c",
-    "status": "sent",
-    "worker_name": "Darlene Norris",
-    "template": "Letter",
-    "name": "SLUMBERIA Letter",
-    "sent_on": "2016-12-23T03:25:38 -11:00",
-    "acknowledged_on": "2016-01-08T06:39:42 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca96a1116e0e53a2e6",
-    "guid": "2d7394ce-ac01-4885-98c8-a854ee0eb95a",
-    "status": "cancelled",
-    "worker_name": "Chaney Powell",
-    "template": "Letter",
-    "name": "PRINTSPAN Letter",
-    "sent_on": "2015-03-29T05:00:33 -11:00",
-    "acknowledged_on": "2014-01-02T07:52:13 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca2647cab1f0f2e725",
-    "guid": "af7418a1-72f4-42a8-b381-b945b9d36fdf",
-    "status": "draft",
-    "worker_name": "Baxter Noble",
-    "template": "Letter",
-    "name": "SQUISH Letter",
-    "sent_on": "2017-02-19T01:25:20 -11:00",
-    "acknowledged_on": "2016-11-21T09:07:48 -11:00"
-  },
-  {
-    "_id": "5bcfa9cade28b2d966d3a2f4",
-    "guid": "ebae423c-134e-48ae-b1e3-0325eb3816a5",
-    "status": "cancelled",
-    "worker_name": "Billie Dodson",
-    "template": "Letter",
-    "name": "DOGTOWN Letter",
-    "sent_on": "2016-09-29T04:08:39 -10:00",
-    "acknowledged_on": "2016-02-04T02:47:28 -11:00"
-  },
-  {
-    "_id": "5bcfa9cafac41570da4b25b2",
-    "guid": "b0b41f8b-c827-470f-b087-0f03d29eebd4",
-    "status": "draft",
-    "worker_name": "Gregory Cervantes",
-    "template": "Letter",
-    "name": "ECLIPSENT Letter",
-    "sent_on": "2015-01-11T05:44:48 -11:00",
-    "acknowledged_on": "2017-12-23T03:40:05 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca10abc9c484a5b502",
-    "guid": "b7258bab-de0a-4515-9d1c-665f54f083c8",
-    "status": "sent",
-    "worker_name": "Terrell Ortega",
-    "template": "Letter",
-    "name": "QUILCH Letter",
-    "sent_on": "2017-08-22T03:56:28 -10:00",
-    "acknowledged_on": "2018-10-04T01:20:27 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca363c7664cb8f0aac",
-    "guid": "4ab0246c-fe23-4cfa-8133-6959f6394972",
-    "status": "acknowledge",
-    "worker_name": "Lori Barton",
-    "template": "Induction Letter",
-    "name": "XELEGYL Letter",
-    "sent_on": "2014-11-19T03:16:59 -11:00",
-    "acknowledged_on": "2015-01-01T01:24:27 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca02087ae3a3b162e2",
-    "guid": "3d703912-a413-49c1-861e-3d5cfd327b90",
-    "status": "cancelled",
-    "worker_name": "Ellis Park",
-    "template": "Terminal Letter",
-    "name": "SLOGANAUT Letter",
-    "sent_on": "2017-08-03T11:14:38 -10:00",
-    "acknowledged_on": "2015-08-04T08:39:36 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca07390140cb61f75d",
-    "guid": "9ddb1e97-e954-4cd9-abe8-3609e8036755",
-    "status": "draft",
-    "worker_name": "Small Decker",
-    "template": "Induction Letter",
-    "name": "MEDCOM Letter",
-    "sent_on": "2014-09-02T05:32:41 -10:00",
-    "acknowledged_on": "2015-02-21T07:11:57 -11:00"
-  },
-  {
-    "_id": "5bcfa9ca69625193eb0a29d3",
-    "guid": "98f8859b-6639-44f2-8cf7-84d904141fd0",
-    "status": "draft",
-    "worker_name": "Rowena Sawyer",
-    "template": "Induction Letter",
-    "name": "CUJO Letter",
-    "sent_on": "2018-08-04T06:36:51 -10:00",
-    "acknowledged_on": "2015-03-14T05:25:33 -11:00"
-  },
-  {
-    "_id": "5bcfa9cae1769dddc2ce9189",
-    "guid": "95d428b6-bdf2-4df1-88d2-271f52bb4090",
-    "status": "draft",
-    "worker_name": "Gracie Rich",
-    "template": "Terminal Letter",
-    "name": "ENTROFLEX Letter",
-    "sent_on": "2016-04-28T05:24:42 -10:00",
-    "acknowledged_on": "2017-08-02T12:56:53 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca1f7bf1bdbb90dd0b",
-    "guid": "bd09adeb-f496-46cf-922e-08763d6f909a",
-    "status": "acknowledge",
-    "worker_name": "David Charles",
-    "template": "Letter",
-    "name": "ECSTASIA Letter",
-    "sent_on": "2015-04-28T05:31:24 -10:00",
-    "acknowledged_on": "2016-07-09T07:54:34 -10:00"
-  },
-  {
-    "_id": "5bcfa9cab97505a74c5bf385",
-    "guid": "26c7cc07-6478-4299-bfe3-8ba3c9846d98",
-    "status": "sent",
-    "worker_name": "Cherie Simpson",
-    "template": "Letter",
-    "name": "WAZZU Letter",
-    "sent_on": "2014-03-06T04:58:00 -11:00",
-    "acknowledged_on": "2018-06-06T12:50:52 -10:00"
-  },
-  {
-    "_id": "5bcfa9ca2c8bb2ef601df28d",
-    "guid": "f3f741fe-280a-4851-a188-b025d5230ff7",
-    "status": "sent",
-    "worker_name": "Rosario Carr",
-    "template": "Letter",
-    "name": "EYERIS Letter",
-    "sent_on": "2016-09-25T04:42:23 -10:00",
-    "acknowledged_on": "2014-05-15T05:29:33 -10:00"
-  },
-  {
-    "_id": "5bcfa9cad97c3dcf1a0ba65f",
-    "guid": "17e7c51d-76c1-4f42-a01a-efa675a6f3aa",
-    "status": "draft",
-    "worker_name": "Stafford Pierce",
-    "template": "Induction Letter",
-    "name": "BIOTICA Letter",
-    "sent_on": "2016-11-26T01:14:43 -11:00",
-    "acknowledged_on": "2017-11-23T03:33:33 -11:00"
-  }
-],
-"messages": [
+    {
+      "id": "5bd64430d4961295e065d8a7",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "induction"
+        }
+      },
+      "employee": {
+        "name": "Brittney Rios"
+      },
+      "dateSent": "2017-07-27T03:21:16 -10:00",
+      "statusID": 1,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430969723feba0eaf7a",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Tucker Thompson"
+      },
+      "dateSent": "2014-06-23T08:28:40 -10:00",
+      "statusID": 3,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430f1b3310452ef164f",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Holder Wyatt"
+      },
+      "dateSent": "2014-06-21T05:29:40 -10:00",
+      "statusID": 2,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430ec41f9cc1d1f6278",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Flores Ramsey"
+      },
+      "dateSent": "2016-09-23T02:33:55 -10:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd644305a375df1aa8a3ec9",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Cantrell Petersen"
+      },
+      "dateSent": "2018-05-18T08:43:44 -10:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430bda01b8269c3c93a",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Molly Hall"
+      },
+      "dateSent": "2014-09-29T05:48:28 -10:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430a6336c0810083b04",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Hyde Chambers"
+      },
+      "dateSent": "2014-01-20T05:37:41 -11:00",
+      "statusID": 3,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430aca99dd7688e661e",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "warning"
+        }
+      },
+      "employee": {
+        "name": "Horn Stephenson"
+      },
+      "dateSent": "2014-02-13T05:44:56 -11:00",
+      "statusID": 3,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430db59421f447b5338",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Ferguson Santiago"
+      },
+      "dateSent": "2018-07-11T09:11:29 -10:00",
+      "statusID": 4,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd644302b647337bcf54290",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Della Nixon"
+      },
+      "dateSent": "2015-12-14T09:26:36 -11:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd644308346061eb3251cae",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Diane Pitts"
+      },
+      "dateSent": "2015-09-14T11:52:25 -10:00",
+      "statusID": 1,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430f080986de630dbdb",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "induction"
+        }
+      },
+      "employee": {
+        "name": "Walton Hughes"
+      },
+      "dateSent": "2017-07-26T05:54:13 -10:00",
+      "statusID": 3,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd6443023fe344a7dc63f4e",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "warning"
+        }
+      },
+      "employee": {
+        "name": "Melinda House"
+      },
+      "dateSent": "2014-08-24T08:41:20 -10:00",
+      "statusID": 4,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd6443061b37cd5c62c1c7c",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "warning"
+        }
+      },
+      "employee": {
+        "name": "Glenda Carpenter"
+      },
+      "dateSent": "2017-11-06T10:01:38 -11:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd6443098e21ffde78f876a",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "warning"
+        }
+      },
+      "employee": {
+        "name": "Hutchinson Payne"
+      },
+      "dateSent": "2017-09-04T08:11:07 -10:00",
+      "statusID": 1,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd6443027c79a5edcba86a8",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Stanton Reid"
+      },
+      "dateSent": "2017-10-04T01:03:36 -11:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd6443020a4e6ce4837fc97",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "warning"
+        }
+      },
+      "employee": {
+        "name": "Jan Sellers"
+      },
+      "dateSent": "2014-08-29T04:43:56 -10:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430973bd62ee404a473",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Audrey Howe"
+      },
+      "dateSent": "2018-03-04T08:29:45 -11:00",
+      "statusID": 3,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430e340169826aaf877",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Moody Becker"
+      },
+      "dateSent": "2014-03-31T03:09:23 -11:00",
+      "statusID": 3,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430c8fe7e45d74bf828",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Patricia Key"
+      },
+      "dateSent": "2014-07-16T07:56:19 -10:00",
+      "statusID": 3,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430a45ca57f93c5e29a",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Bishop Beasley"
+      },
+      "dateSent": "2014-02-04T10:06:43 -11:00",
+      "statusID": 1,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430b462ded904e8f7cb",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Aurelia Whitfield"
+      },
+      "dateSent": "2015-02-27T01:45:39 -11:00",
+      "statusID": 1,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430add0138763838210",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Abbott Sargent"
+      },
+      "dateSent": "2016-06-25T08:46:43 -10:00",
+      "statusID": 1,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd6443032e1f16a99535259",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "warning"
+        }
+      },
+      "employee": {
+        "name": "Thelma Buchanan"
+      },
+      "dateSent": "2014-10-09T06:05:18 -11:00",
+      "statusID": 2,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd644303cc798f535b44a60",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Gallegos Hurley"
+      },
+      "dateSent": "2016-07-18T07:42:15 -10:00",
+      "statusID": 2,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd644309d912e30bb637fbd",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "induction"
+        }
+      },
+      "employee": {
+        "name": "Helene Carrillo"
+      },
+      "dateSent": "2016-11-08T04:13:00 -11:00",
+      "statusID": 4,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430d4bf89fef4b6857a",
+      "document": {
+        "title": "Abandonment Of Employment Termination Letter",
+        "documentType": {
+          "name": "probation"
+        }
+      },
+      "employee": {
+        "name": "Tanisha Owen"
+      },
+      "dateSent": "2015-01-02T06:31:54 -11:00",
+      "statusID": 3,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd64430d69dc04498260626",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Dodson Valentine"
+      },
+      "dateSent": "2016-07-15T12:34:31 -10:00",
+      "statusID": 3,
+      "isAcknowledged": true
+    },
+    {
+      "id": "5bd644307c91f1e14e3adf56",
+      "document": {
+        "title": "Letter To Employee’s Doctor Regarding Incability",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Bartlett Drake"
+      },
+      "dateSent": "2016-07-23T07:29:52 -10:00",
+      "statusID": 3,
+      "isAcknowledged": false
+    },
+    {
+      "id": "5bd64430b99fc9ff2d2fae16",
+      "document": {
+        "title": "Termination Letter To Employee For Poor Performance",
+        "documentType": {
+          "name": "termination"
+        }
+      },
+      "employee": {
+        "name": "Sheryl Collins"
+      },
+      "dateSent": "2015-07-21T12:13:06 -10:00",
+      "statusID": 4,
+      "isAcknowledged": true
+    }
+  ],
+  "templates":[
+    {
+      "id": "5bd64649f5aa4fde26fedf9b",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Ipsum eu enim in deserunt ea commodo mollit non ad minim sint et. Magna in aliquip ea consectetur esse do ex enim voluptate duis laboris ex deserunt. Velit consequat fugiat proident in pariatur laboris. Enim pariatur deserunt laboris nostrud amet exercitation.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd64649050123fb17ddf8c6",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Sint eu ut velit irure ad Lorem proident irure exercitation cupidatat cillum labore ipsum elit. Consectetur nostrud sint ullamco ipsum mollit sunt aliqua culpa quis. Minim incididunt cillum sit elit reprehenderit proident dolore.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd64649602d02d3c012f9d2",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Aliquip laboris consequat irure officia ut. Irure velit do ullamco nostrud cillum occaecat culpa in sit magna mollit excepteur culpa enim. Ex proident ut do proident ipsum aliqua amet qui velit veniam. Sit est pariatur elit consequat duis cupidatat id consectetur sunt dolor reprehenderit exercitation. Officia eu id aute incididunt fugiat consectetur non dolor mollit sunt. Culpa pariatur ut non ea adipisicing fugiat sunt mollit tempor labore aliqua aute consequat et.\r\n",
+      "fileID": 6,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd646499e2b3663bc4f585b",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Do deserunt aliquip enim commodo nulla laboris labore laborum. Sint Lorem sunt cillum ad nisi Lorem commodo excepteur. Nulla laborum consequat exercitation eu commodo veniam. Veniam deserunt pariatur ipsum officia do. Enim Lorem proident amet consectetur eu nostrud cillum amet veniam nisi id. Deserunt et minim incididunt tempor ad cillum exercitation.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd64649bba4f27c890ecd9c",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Dolor quis qui excepteur dolor consequat. Cupidatat ut excepteur ut sit tempor ex cillum ipsum occaecat officia exercitation velit. Tempor exercitation nulla proident exercitation anim voluptate consectetur adipisicing laboris velit nostrud. Dolore consequat adipisicing anim voluptate quis amet et dolore eiusmod voluptate nostrud. Adipisicing tempor velit enim ex aliqua quis id magna elit ut cillum quis.\r\n",
+      "fileID": 3,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd64649f27de6755f28ca47",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Incididunt fugiat officia commodo excepteur reprehenderit dolore commodo aliqua amet. Culpa Lorem anim adipisicing fugiat aute. Occaecat consectetur consequat nisi adipisicing voluptate aute dolor exercitation excepteur. Irure reprehenderit aliquip occaecat ullamco veniam consectetur nulla voluptate adipisicing ad consequat nisi. Adipisicing occaecat enim culpa officia. Mollit qui cupidatat veniam adipisicing amet pariatur in dolore exercitation cillum sit culpa.\r\n",
+      "fileID": 7,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd6464965b516c05f14a388",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Aliqua aliqua mollit adipisicing qui qui amet quis deserunt cupidatat sit tempor nostrud consequat cupidatat. In labore et ea cillum duis pariatur esse. Cillum dolore labore nostrud ea et excepteur est sint mollit excepteur exercitation quis ut. Eu in consectetur elit ut non est esse labore ex ullamco commodo deserunt aliquip consectetur.\r\n",
+      "fileID": 1,
+      "documentType": {
+        "name": "leave"
+      }
+    },
+    {
+      "id": "5bd64649de0b6447dab93aa0",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Ullamco eu enim eu aliquip ullamco ex. Laboris sint sit adipisicing non aute dolor tempor sunt reprehenderit ea tempor. Enim deserunt tempor non ad ut. Amet deserunt enim anim adipisicing in qui irure deserunt fugiat duis ex id labore incididunt. Reprehenderit voluptate tempor occaecat commodo. Adipisicing sit consequat minim qui deserunt do exercitation eiusmod cillum aliqua ad aliquip excepteur dolore.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd64649b1b670cd8865073f",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Irure adipisicing ullamco ea eu deserunt consequat incididunt. Ea ad ullamco ullamco cillum consequat duis sint. Minim eu excepteur est elit excepteur nulla consequat ullamco eiusmod. Aliquip aliqua aliqua incididunt excepteur.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "leave"
+      }
+    },
+    {
+      "id": "5bd64649a6d01dd57cbf2837",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Culpa nulla duis duis mollit exercitation consectetur quis duis commodo. Laboris do qui consequat anim cupidatat nisi sunt ut velit dolore. Duis est incididunt officia qui. Id irure aliquip sint nostrud ipsum minim dolor. Eu in nisi nisi dolor ea irure. Magna nisi deserunt aliquip officia id. Cupidatat culpa laborum id nulla et voluptate dolore ea mollit sunt tempor voluptate.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd646495733028dda35bca2",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Cillum nisi ut aliqua mollit proident laboris labore elit eiusmod. Commodo in quis labore sunt aute non aliquip ipsum consequat. Adipisicing pariatur consectetur ea excepteur culpa deserunt duis sit nulla. Consequat aliquip cupidatat cillum cillum reprehenderit est sint duis reprehenderit quis. Consectetur est velit ipsum ut est fugiat mollit incididunt cillum ut in aute. Reprehenderit aute velit ex eiusmod elit incididunt.\r\n",
+      "fileID": 5,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd6464919a1cf126296ed14",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Dolor tempor ad tempor non nostrud anim officia voluptate minim eu. Ea sint irure fugiat ex dolore labore nostrud consectetur exercitation est anim. Exercitation fugiat ad in tempor non esse est. Ea officia culpa quis non sit elit nisi fugiat. Pariatur fugiat proident pariatur incididunt occaecat id excepteur. Ipsum consequat laborum et mollit deserunt adipisicing tempor non quis. Id est Lorem ipsum veniam veniam nostrud anim deserunt incididunt consectetur qui occaecat aute.\r\n",
+      "fileID": 7,
+      "documentType": {
+        "name": "leave"
+      }
+    },
+    {
+      "id": "5bd646491b5b324253f8a060",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Labore ullamco irure quis nostrud nostrud irure reprehenderit id mollit ut. Labore commodo laborum eu aliqua. Commodo velit sunt voluptate mollit reprehenderit voluptate nulla voluptate voluptate. Occaecat voluptate aliquip do duis et reprehenderit quis laboris id aute mollit. Id nulla pariatur ad voluptate anim sunt cillum.\r\n",
+      "fileID": 1,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd6464979528c324a7a94ee",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Nisi aliquip elit Lorem sint reprehenderit velit sunt ad. Exercitation mollit deserunt ullamco sint incididunt. Ipsum minim irure labore sint sint.\r\n",
+      "fileID": 6,
+      "documentType": {
+        "name": "leave"
+      }
+    },
+    {
+      "id": "5bd64649b7b376d9f12a1912",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Exercitation nostrud quis labore duis nostrud. Eu est consequat nostrud proident mollit culpa cupidatat. Et consequat nisi occaecat non elit sint. Veniam exercitation dolor consequat qui occaecat irure mollit. Minim deserunt ipsum velit ex Lorem ad.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd646492e852d7b104155b2",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Anim nisi adipisicing voluptate mollit labore nisi id consectetur reprehenderit dolor. Labore anim do occaecat qui pariatur sunt laboris magna incididunt irure deserunt fugiat ut. Voluptate anim mollit voluptate ex non irure Lorem exercitation ad excepteur exercitation adipisicing est.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "warning"
+      }
+    },
+    {
+      "id": "5bd646496f4c1f3f068a7fb2",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Esse eiusmod pariatur ex esse sit veniam non excepteur proident. Nisi deserunt enim consequat ad exercitation. Irure do qui consequat eu voluptate ullamco reprehenderit commodo dolore incididunt anim anim ex velit. Quis consectetur proident esse sint esse sit ex officia nostrud Lorem dolor. Sunt occaecat amet laboris velit sint laborum amet aliquip ad qui labore. Qui amet exercitation cillum sit do id.\r\n",
+      "fileID": 3,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd646496c38f945ff157e69",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Minim aliquip ullamco in est ad aute mollit Lorem. Amet duis in dolor adipisicing aute veniam occaecat irure Lorem nisi sit tempor adipisicing commodo. Amet mollit laboris excepteur culpa minim eu aute.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "tremination"
+      }
+    },
+    {
+      "id": "5bd64649e5c91b22cc9e91f9",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Consequat labore id magna sit qui anim. Anim ipsum fugiat id laborum exercitation veniam nisi. Cupidatat consectetur aliquip tempor dolor fugiat commodo culpa aliquip. Irure irure do non quis laboris pariatur nulla enim do. Fugiat est quis deserunt pariatur dolor.\r\n",
+      "fileID": 1,
+      "documentType": {
+        "name": "warning"
+      }
+    },
+    {
+      "id": "5bd64649fe785c3a62452893",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Quis quis do aliquip ex incididunt reprehenderit est id. Id duis dolore officia qui sunt ea anim voluptate est enim. Sunt in id ullamco occaecat ipsum enim tempor in aute laborum. Cupidatat sit eu deserunt elit reprehenderit incididunt ex eiusmod qui tempor ipsum do anim anim.\r\n",
+      "fileID": 5,
+      "documentType": {
+        "name": "warning"
+      }
+    },
+    {
+      "id": "5bd6464917bc252fcb70f882",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Quis culpa aliquip sint eiusmod ullamco mollit. Eiusmod culpa tempor et aute reprehenderit sit ex cillum sunt laboris id occaecat anim voluptate. Excepteur esse tempor tempor ullamco velit aute mollit fugiat elit excepteur dolor incididunt laborum. Elit deserunt aliquip ut amet. Magna ea Lorem exercitation ullamco amet.\r\n",
+      "fileID": 5,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd64649ec9f07ad466c1b49",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Aute excepteur aute officia nostrud non excepteur nisi. Pariatur dolore reprehenderit duis mollit voluptate aute id consectetur irure. Et eiusmod eiusmod est amet exercitation exercitation labore laborum fugiat cupidatat duis ipsum voluptate. Enim exercitation enim pariatur ullamco. Irure sint anim pariatur laboris cillum nisi tempor nisi sit incididunt labore voluptate proident laborum.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "warning"
+      }
+    },
+    {
+      "id": "5bd646496e3f438b963a690b",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Deserunt quis velit quis consectetur nisi amet quis laboris dolor anim nostrud et tempor anim. Commodo amet laboris in irure tempor quis nostrud non ad fugiat magna incididunt. Deserunt ea reprehenderit voluptate nisi exercitation eiusmod id sint. Lorem consequat sunt irure minim reprehenderit nulla mollit non sunt amet adipisicing ex eiusmod. Dolore officia occaecat nisi eiusmod commodo dolor deserunt qui deserunt est consectetur labore dolore qui. In velit fugiat ullamco eu eiusmod ipsum tempor labore velit commodo elit. Adipisicing eiusmod sunt incididunt minim ad dolore reprehenderit dolor consectetur laborum sunt labore.\r\n",
+      "fileID": 5,
+      "documentType": {
+        "name": "warning"
+      }
+    },
+    {
+      "id": "5bd6464936c0f78034b544a0",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Irure enim ad tempor consectetur. Mollit cillum incididunt aliqua magna culpa occaecat voluptate enim adipisicing excepteur. Do ea pariatur cupidatat minim aliqua officia nostrud ex qui proident nisi cupidatat sint. Ut excepteur quis id dolore esse quis veniam eu consequat consequat proident. Non cillum magna qui dolor dolore amet proident Lorem veniam veniam ea aliquip amet laboris.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "warning"
+      }
+    },
+    {
+      "id": "5bd646497993b13a347a2f25",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Voluptate ullamco exercitation voluptate cupidatat laborum sunt non. Qui nulla nisi eiusmod laborum do fugiat occaecat do. Eu excepteur minim ipsum anim laboris.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd64649fc6af1d1f269f285",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Et in laborum et sunt officia nulla esse anim duis deserunt magna veniam duis nulla. Velit ea minim elit incididunt id reprehenderit. Exercitation pariatur duis eiusmod aute laboris aliqua consequat consectetur officia. Nostrud pariatur proident laboris ipsum mollit in ipsum elit incididunt ipsum qui laboris exercitation laborum.\r\n",
+      "fileID": 3,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd6464925a327ceac2cb658",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Dolor reprehenderit voluptate occaecat ullamco ipsum consequat ut sunt qui ullamco occaecat commodo ullamco. Ipsum anim Lorem veniam aliquip ad veniam aliqua nostrud. Ex laborum fugiat occaecat ipsum amet ad ut aute incididunt voluptate officia do in qui. Velit deserunt dolore incididunt est Lorem magna ut minim elit irure cupidatat aute nostrud sint. Culpa adipisicing qui dolore fugiat labore consequat anim voluptate pariatur nulla. Dolore tempor ea nostrud deserunt voluptate officia magna eiusmod nulla consectetur qui.\r\n",
+      "fileID": 4,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd6464940f64ba55251ec9a",
+      "title": "Termination Letter To Employee For Poor Performance",
+      "description": "Dolore exercitation voluptate est adipisicing sit do consequat duis. Ullamco labore ipsum esse nulla est irure aliquip velit fugiat ea id sit adipisicing. Adipisicing reprehenderit non dolor deserunt tempor aliqua occaecat occaecat pariatur anim mollit ea. Commodo id magna Lorem ex ea laborum nulla laboris irure consequat id laborum exercitation elit. Nulla tempor sit ad ex tempor voluptate excepteur dolore tempor laborum adipisicing cupidatat.\r\n",
+      "fileID": 2,
+      "documentType": {
+        "name": "leave"
+      }
+    },
+    {
+      "id": "5bd646495d90843ced9fddab",
+      "title": "Letter To Employee’s Doctor Regarding Incability",
+      "description": "Magna in velit id veniam cupidatat est ipsum pariatur commodo labore enim veniam enim. Sit nulla sunt sint enim magna sit officia id. Non ad exercitation nisi sint nostrud non anim mollit. Magna Lorem et eiusmod nisi deserunt amet sunt in aliquip laborum enim occaecat. Ullamco ad eiusmod laboris qui consectetur irure.\r\n",
+      "fileID": 3,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd64649bb5caf107b238b06",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Laborum dolore fugiat enim elit tempor aliqua magna veniam qui nisi ipsum sint excepteur. Consectetur sit aute dolor do qui quis magna veniam commodo duis laborum fugiat exercitation. Ipsum elit adipisicing sint incididunt est ullamco do quis minim velit fugiat cillum irure. Proident in veniam laborum amet enim tempor officia officia incididunt est. Labore dolor esse exercitation enim in proident est irure laboris mollit.\r\n",
+      "fileID": 6,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd6464951ff60510880497f",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Incididunt esse quis mollit sint nulla aute id ipsum dolor laborum officia culpa cillum. Velit quis adipisicing mollit consequat cupidatat consectetur exercitation aliqua consequat. Elit labore cupidatat Lorem est do velit mollit duis pariatur tempor ut ad magna. Voluptate veniam do fugiat minim magna. Nisi cillum nostrud qui anim aute velit enim sint.\r\n",
+      "fileID": 1,
+      "documentType": {
+        "name": "probation"
+      }
+    },
+    {
+      "id": "5bd646491ff25bdbac780915",
+      "title": "Abandonment Of Employment Termination Letter",
+      "description": "Esse reprehenderit minim esse dolore laboris aute laboris irure quis dolor consequat enim. Excepteur eiusmod dolor pariatur veniam duis. Enim voluptate dolore reprehenderit ex anim laborum ad non ut velit aliquip sint. Aute minim laboris enim sint qui et ut consectetur Lorem eiusmod elit pariatur.\r\n",
+      "fileID": 7,
+      "documentType": {
+        "name": "warning"
+      }
+    }
+  ],
+  "quesitons":[
+    {
+      "title": "Letter Date",
+      "editable":true,
+      "questions": [
+        {
+          "guide": "Insert date for letter to be issued",
+          "code":"QIMG4981",
+          "root":null,
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "title": "Employee name",
+      "questions": [
+        {
+          "guide": "Insert employee name",
+          "code":"QIMG2136",
+          "root":null,
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "title": "Employee address",
+      "questions": [
+        {
+          "guide": "Insert company name",
+          "code":"QIMG7411",
+          "root":null,
+          "type": "text"
+        },
+        {
+          "guide": "Insert company ABN",
+          "code":"QIMG6326",
+          "root":null,
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "title": "Period of Absence",
+      "questions": [
+        {
+          "guide": "Insert first date of absence",
+          "code":"QIMG6832",
+          "root":null,
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "title": "Contract",
+      "questions": [
+        {
+          "guide": "Insert date of contract of employment",
+          "code":"QIMG4028",
+          "root":null,
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "title": "Follow-up Meeting",
+      "questions": [
+        {
+          "guide":
+            "Insert date by which the employee is required to return to work and attend a meeting.",
+            "code":"QIMG4379",
+            "root":null,
+          "type": "date"
+        },
+        {
+          "guide": "Insert meeting location",
+          "code":"QIMG6667",
+          "root":null,
+          "type": "text"
+        },
+        {
+          "guide": "Insert scheduled time for meeting.",
+          "code":"QIMG1020",
+          "root":null,
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "title": "Follow-up Meeting Attendees",
+      "questions": [
+        {
+          "guide": "Insert the names of the persons attending the meeting",
+          "code":"QIMG6469",
+          "root":null,
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "title": "Author",
+      "questions": [
+        {
+          "guide": "Insert the name  of the author of the letter",
+          "code":"QIMG2239",
+          "root":null,
+          "type": "text"
+        },
+        {
+          "guide": "Insert the position of the author of the letter",
+          "code":"QIMG2479",
+          "root":null,
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "title": "Approval and Signee",
+      "questions": [
+        {
+          "guide": "Do you want to add signee for this letter?",
+          "code":"QIMG9599",
+          "root":null,
+          "type": "checkbox"
+        },
+        {
+          "guide": "Select the signee form the company",
+          "code":"QIMG2559",
+          "root":"QIMG9599",
+          "type": "dropdown"
+          
+        },
+        {
+          "guide": "Do you want to add approver for this letter?",
+          "code":"QIMG9439",
+          "root":null,
+          "type": "checkbox"
+        },
+        {
+          "guide": "Select the approver from the company",
+          "code":"QIMG2769",
+          "root":"QIMG9439",
+          "type": "dropdown"
+        }
+      ]
+    },
+    {
+      "title": "Add a Watch",
+      "questions": [
+        {
+          "guide": "Do you want to enable notification on this letter",
+          "code":"QIMG9979",
+          "root":null,
+          "type": "checkbox"
+        },
+        {
+          "guide": "Select the person who should receive notification on this correspondence",
+          "code":"QIMG2998",
+          "root":"QIMG9979",
+          "type": "dropdown"
+        }
+      ]
+    }
+  ],
+  "messages": [
     {
         "id": 1,
         "sender": "Melanio Cetafe",
         "subject": "Termination Contract",
         "client": "Shark Tank",
-        "type": "Contract",
+        "type": "Contract"
         
     },
     {
@@ -316,22 +939,21 @@
         "sender": "Joan Boyd",
         "subject": "Workplace safety course",
         "client": "Metanyx",
-        "type": "Courses",
+        "type": "Courses"
     },
     {
         "id": 3,
         "sender": "Frances Richards",
         "subject": "Abandonment-Letter",
         "client": "Aquafix",
-        "type": "Letter",
+        "type": "Letter"
     },
     {
         "id": 4,
         "sender": "Julia Long",
         "subject": "Intellectual Property Test",
         "client": "Protofic",
-        "type": "Test",
+        "type": "Test"
     }
 ]
-
 }
