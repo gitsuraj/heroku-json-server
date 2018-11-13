@@ -865,12 +865,10 @@
   "quesitons":[
     {
       "title": "Letter Date",
-      "editable":true,
       "questions": [
         {
           "guide": "Insert date for letter to be issued",
           "code":"QIMG4981",
-          "root":null,
           "type": "date"
         }
       ]
@@ -881,7 +879,6 @@
         {
           "guide": "Insert employee name",
           "code":"QIMG2136",
-          "root":null,
           "type": "text"
         }
       ]
@@ -892,13 +889,11 @@
         {
           "guide": "Insert company name",
           "code":"QIMG7411",
-          "root":null,
           "type": "text"
         },
         {
           "guide": "Insert company ABN",
           "code":"QIMG6326",
-          "root":null,
           "type": "text"
         }
       ]
@@ -909,7 +904,6 @@
         {
           "guide": "Insert first date of absence",
           "code":"QIMG6832",
-          "root":null,
           "type": "date"
         }
       ]
@@ -920,7 +914,6 @@
         {
           "guide": "Insert date of contract of employment",
           "code":"QIMG4028",
-          "root":null,
           "type": "date"
         }
       ]
@@ -932,19 +925,16 @@
           "guide":
             "Insert date by which the employee is required to return to work and attend a meeting.",
             "code":"QIMG4379",
-            "root":null,
           "type": "date"
         },
         {
           "guide": "Insert meeting location",
           "code":"QIMG6667",
-          "root":null,
           "type": "text"
         },
         {
           "guide": "Insert scheduled time for meeting.",
           "code":"QIMG1020",
-          "root":null,
           "type": "date"
         }
       ]
@@ -955,7 +945,6 @@
         {
           "guide": "Insert the names of the persons attending the meeting",
           "code":"QIMG6469",
-          "root":null,
           "type": "text"
         }
       ]
@@ -966,13 +955,11 @@
         {
           "guide": "Insert the name  of the author of the letter",
           "code":"QIMG2239",
-          "root":null,
           "type": "text"
         },
         {
           "guide": "Insert the position of the author of the letter",
           "code":"QIMG2479",
-          "root":null,
           "type": "text"
         }
       ]
@@ -983,27 +970,24 @@
         {
           "guide": "Do you want to add signee for this letter?",
           "code":"QIMG9599",
-          "root":null,
-          "type": "checkbox"
-        },
-        {
-          "guide": "Select the signee form the company",
-          "code":"QIMG2559",
-          "root":"QIMG9599",
-          "type": "dropdown"
-          
+          "type": "checkbox",
+          "questions":[{
+              "guide": "Select the signee form the company",
+              "code":"QIMG2559",
+              "type": "dropdown"
+          }]
         },
         {
           "guide": "Do you want to add approver for this letter?",
           "code":"QIMG9439",
-          "root":null,
-          "type": "checkbox"
-        },
-        {
-          "guide": "Select the approver from the company",
-          "code":"QIMG2769",
-          "root":"QIMG9439",
-          "type": "dropdown"
+          "type": "checkbox",
+          "questions":[
+            {
+              "guide": "Select the approver from the company",
+              "code":"QIMG2769",
+              "type": "dropdown"
+            }
+          ]
         }
       ]
     },
@@ -1013,14 +997,14 @@
         {
           "guide": "Do you want to enable notification on this letter",
           "code":"QIMG9979",
-          "root":null,
-          "type": "checkbox"
-        },
-        {
-          "guide": "Select the person who should receive notification on this correspondence",
-          "code":"QIMG2998",
-          "root":"QIMG9979",
-          "type": "dropdown"
+          "type": "checkbox",
+          "questions":[
+            {
+              "guide": "Select the person who should receive notification on this correspondence",
+              "code":"QIMG2998",
+              "type": "multiselect"
+            }
+          ]
         }
       ]
     }
