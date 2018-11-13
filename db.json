@@ -964,6 +964,7 @@
           "guide": "Do you want to add signee for this letter?",
           "code": "QIMG9599",
           "type": "checkbox",
+          "placeholder":"Select signee",
           "questions": [
             {
               "guide": "Select the signee form the company",
@@ -1007,6 +1008,7 @@
               "guide": "Select the approver from the company",
               "code": "QIMG2769",
               "type": "dropdown",
+              "placeholder":"Select approver",
               "options": [
                 {
                   "id": 1,
@@ -1050,6 +1052,7 @@
               "guide": "Select the person who should receive notification on this correspondence",
               "code": "QIMG2998",
               "type": "multiselect",
+              "placeholder":"Select person",
               "options": [
                 {
                   "id": 1,
