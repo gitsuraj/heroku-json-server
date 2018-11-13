@@ -1,26 +1,20 @@
 {
-  	"login":{
-  		"access_token":"eyJhbGciOiJSUzI1NiIsImtpZCI6ImEzZDliYzk2Y2MwNzA1YzVkY2EyMjcyNGUyNzRjYzViIiwidHlwIjoiSldUIn0.eyJuYmYiOjE1NDAyNTAwNzIsImV4cCI6MTU3MTc4NjA3MiwiaXNzIjoiaHR0cDovL2Rldi5pbnNpZ2h0cGF5bWVudHMuY29tOjgxODciLCJhdWQiOlsiaHR0cDovL2Rldi5pbnNpZ2h0cGF5bWVudHMuY29tOjgxODcvcmVzb3VyY2VzIiwicnlkb0RyaXZlcl9hcGkiXSwiY2xpZW50X2lkIjoicnlkb19kcml2ZXJfdGVzdCIsInN1YiI6Ijk0ODA0NTkyLTdmNWQtNGNkZC04OWE3LTA1ZTc1OTQ3ZmVkYSIsImF1dGhfdGltZSI6MTU0MDI1MDA3MiwiaWRwIjoibG9jYWwiLCJzY29wZSI6WyJwcm9maWxlIiwicnlkb0RyaXZlcl9hcGkiXSwiYW1yIjpbInB3ZCJdfQ.G3WXCm3N7NHLeKGJV1mfyKi_hHUJTVGdzMPeGLbhh8RuYoe0l2c0F3ldIdWrbdozmW_h1-SfBxN54lss-tNNCtdKi-5nnOj8SGM7vToWPL75Buz06F9JNBwdGyY0FuWGi6IFIE4NbIT_7qjHVa_ogL3I96jTWD4wdbpWWE_Z0B-qcxBvTPEodtJFFhlzdnBFyIXxKM9qTUDwE3q5EwB7W2gHCGpOOcLp0iYsWfz2Yz6YMQ-yeqt1vLGgzJFqseKjK4YQ1CXqvAvIK0FoPfd8dvCmEGICh1RK9ijKPtauVigtcrfMV2669dd8gZqf9w9f9VgY85iJKOoaLG039aL_YQ",
-  		"expires_in": 1540263656,
-  		"token_type":"bearer"
-  	},
-  	"signup":{
-
-  	},
-  	"reset":{
-
-  	},
-  	"changepassword":{
-
-  	},
-  "posts":[
+  "login": {
+    "access_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImEzZDliYzk2Y2MwNzA1YzVkY2EyMjcyNGUyNzRjYzViIiwidHlwIjoiSldUIn0.eyJuYmYiOjE1NDAyNTAwNzIsImV4cCI6MTU3MTc4NjA3MiwiaXNzIjoiaHR0cDovL2Rldi5pbnNpZ2h0cGF5bWVudHMuY29tOjgxODciLCJhdWQiOlsiaHR0cDovL2Rldi5pbnNpZ2h0cGF5bWVudHMuY29tOjgxODcvcmVzb3VyY2VzIiwicnlkb0RyaXZlcl9hcGkiXSwiY2xpZW50X2lkIjoicnlkb19kcml2ZXJfdGVzdCIsInN1YiI6Ijk0ODA0NTkyLTdmNWQtNGNkZC04OWE3LTA1ZTc1OTQ3ZmVkYSIsImF1dGhfdGltZSI6MTU0MDI1MDA3MiwiaWRwIjoibG9jYWwiLCJzY29wZSI6WyJwcm9maWxlIiwicnlkb0RyaXZlcl9hcGkiXSwiYW1yIjpbInB3ZCJdfQ.G3WXCm3N7NHLeKGJV1mfyKi_hHUJTVGdzMPeGLbhh8RuYoe0l2c0F3ldIdWrbdozmW_h1-SfBxN54lss-tNNCtdKi-5nnOj8SGM7vToWPL75Buz06F9JNBwdGyY0FuWGi6IFIE4NbIT_7qjHVa_ogL3I96jTWD4wdbpWWE_Z0B-qcxBvTPEodtJFFhlzdnBFyIXxKM9qTUDwE3q5EwB7W2gHCGpOOcLp0iYsWfz2Yz6YMQ-yeqt1vLGgzJFqseKjK4YQ1CXqvAvIK0FoPfd8dvCmEGICh1RK9ijKPtauVigtcrfMV2669dd8gZqf9w9f9VgY85iJKOoaLG039aL_YQ",
+    "expires_in": 1540263656,
+    "token_type": "bearer"
+  },
+  "signup": {},
+  "reset": {},
+  "changepassword": {},
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
     }
   ],
-  "letters":[
+  "letters": [
     {
       "id": "5bdbc345ac3fef894b151f1b",
       "document": {
@@ -572,7 +566,7 @@
       "isAcknowledged": true
     }
   ],
-  "templates":[
+  "templates": [
     {
       "id": "5bd64649f5aa4fde26fedf9b",
       "title": "Abandonment Of Employment Termination Letter",
@@ -862,13 +856,13 @@
       }
     }
   ],
-  "quesitons":[
+  "quesitons": [
     {
       "title": "Letter Date",
       "questions": [
         {
           "guide": "Insert date for letter to be issued",
-          "code":"QIMG4981",
+          "code": "QIMG4981",
           "type": "date"
         }
       ]
@@ -878,7 +872,7 @@
       "questions": [
         {
           "guide": "Insert employee name",
-          "code":"QIMG2136",
+          "code": "QIMG2136",
           "type": "text"
         }
       ]
@@ -888,12 +882,12 @@
       "questions": [
         {
           "guide": "Insert company name",
-          "code":"QIMG7411",
+          "code": "QIMG7411",
           "type": "text"
         },
         {
           "guide": "Insert company ABN",
-          "code":"QIMG6326",
+          "code": "QIMG6326",
           "type": "text"
         }
       ]
@@ -903,7 +897,7 @@
       "questions": [
         {
           "guide": "Insert first date of absence",
-          "code":"QIMG6832",
+          "code": "QIMG6832",
           "type": "date"
         }
       ]
@@ -913,7 +907,7 @@
       "questions": [
         {
           "guide": "Insert date of contract of employment",
-          "code":"QIMG4028",
+          "code": "QIMG4028",
           "type": "date"
         }
       ]
@@ -922,19 +916,18 @@
       "title": "Follow-up Meeting",
       "questions": [
         {
-          "guide":
-            "Insert date by which the employee is required to return to work and attend a meeting.",
-            "code":"QIMG4379",
+          "guide": "Insert date by which the employee is required to return to work and attend a meeting.",
+          "code": "QIMG4379",
           "type": "date"
         },
         {
           "guide": "Insert meeting location",
-          "code":"QIMG6667",
+          "code": "QIMG6667",
           "type": "text"
         },
         {
           "guide": "Insert scheduled time for meeting.",
-          "code":"QIMG1020",
+          "code": "QIMG1020",
           "type": "date"
         }
       ]
@@ -944,7 +937,7 @@
       "questions": [
         {
           "guide": "Insert the names of the persons attending the meeting",
-          "code":"QIMG6469",
+          "code": "QIMG6469",
           "type": "text"
         }
       ]
@@ -954,12 +947,12 @@
       "questions": [
         {
           "guide": "Insert the name  of the author of the letter",
-          "code":"QIMG2239",
+          "code": "QIMG2239",
           "type": "text"
         },
         {
           "guide": "Insert the position of the author of the letter",
-          "code":"QIMG2479",
+          "code": "QIMG2479",
           "type": "text"
         }
       ]
@@ -969,23 +962,77 @@
       "questions": [
         {
           "guide": "Do you want to add signee for this letter?",
-          "code":"QIMG9599",
+          "code": "QIMG9599",
           "type": "checkbox",
-          "questions":[{
+          "questions": [
+            {
               "guide": "Select the signee form the company",
-              "code":"QIMG2559",
-              "type": "dropdown"
-          }]
+              "code": "QIMG2559",
+              "type": "dropdown",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "Suraj"
+                },
+                {
+                  "id": 1,
+                  "name": "Justine"
+                },
+                {
+                  "id": 1,
+                  "name": "Kijan"
+                },
+                {
+                  "id": 1,
+                  "name": "Winona"
+                },
+                {
+                  "id": 1,
+                  "name": "Ramila"
+                },
+                {
+                  "id": 1,
+                  "name": "Bahram"
+                }
+              ]
+            }
+          ]
         },
         {
           "guide": "Do you want to add approver for this letter?",
-          "code":"QIMG9439",
+          "code": "QIMG9439",
           "type": "checkbox",
-          "questions":[
+          "questions": [
             {
               "guide": "Select the approver from the company",
-              "code":"QIMG2769",
-              "type": "dropdown"
+              "code": "QIMG2769",
+              "type": "dropdown",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "Suraj"
+                },
+                {
+                  "id": 1,
+                  "name": "Justine"
+                },
+                {
+                  "id": 1,
+                  "name": "Kijan"
+                },
+                {
+                  "id": 1,
+                  "name": "Winona"
+                },
+                {
+                  "id": 1,
+                  "name": "Ramila"
+                },
+                {
+                  "id": 1,
+                  "name": "Bahram"
+                }
+              ]
             }
           ]
         }
@@ -996,13 +1043,39 @@
       "questions": [
         {
           "guide": "Do you want to enable notification on this letter",
-          "code":"QIMG9979",
+          "code": "QIMG9979",
           "type": "checkbox",
-          "questions":[
+          "questions": [
             {
               "guide": "Select the person who should receive notification on this correspondence",
-              "code":"QIMG2998",
-              "type": "multiselect"
+              "code": "QIMG2998",
+              "type": "multiselect",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "Suraj"
+                },
+                {
+                  "id": 1,
+                  "name": "Justine"
+                },
+                {
+                  "id": 1,
+                  "name": "Kijan"
+                },
+                {
+                  "id": 1,
+                  "name": "Winona"
+                },
+                {
+                  "id": 1,
+                  "name": "Ramila"
+                },
+                {
+                  "id": 1,
+                  "name": "Bahram"
+                }
+              ]
             }
           ]
         }
@@ -1011,33 +1084,32 @@
   ],
   "messages": [
     {
-        "id": 1,
-        "sender": "Melanio Cetafe",
-        "subject": "Termination Contract",
-        "client": "Shark Tank",
-        "type": "Contract"
-        
+      "id": 1,
+      "sender": "Melanio Cetafe",
+      "subject": "Termination Contract",
+      "client": "Shark Tank",
+      "type": "Contract"
     },
     {
-        "id": 2,
-        "sender": "Joan Boyd",
-        "subject": "Workplace safety course",
-        "client": "Metanyx",
-        "type": "Courses"
+      "id": 2,
+      "sender": "Joan Boyd",
+      "subject": "Workplace safety course",
+      "client": "Metanyx",
+      "type": "Courses"
     },
     {
-        "id": 3,
-        "sender": "Frances Richards",
-        "subject": "Abandonment-Letter",
-        "client": "Aquafix",
-        "type": "Letter"
+      "id": 3,
+      "sender": "Frances Richards",
+      "subject": "Abandonment-Letter",
+      "client": "Aquafix",
+      "type": "Letter"
     },
     {
-        "id": 4,
-        "sender": "Julia Long",
-        "subject": "Intellectual Property Test",
-        "client": "Protofic",
-        "type": "Test"
+      "id": 4,
+      "sender": "Julia Long",
+      "subject": "Intellectual Property Test",
+      "client": "Protofic",
+      "type": "Test"
     }
-]
+  ]
 }
