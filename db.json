@@ -70,6 +70,24 @@
       "businessUnitCount": 2
     }
    ],
+   "payschedules":[
+    {
+      "id":1,
+      "occurance":"Monthly",
+      "createdDate": "2015-03-03T12:21:26",
+      "startDate":"2015-03-18T12:21:26",
+      "payDay":31,
+      "status":1
+    },
+    {
+      "id":2,
+      "occurance":"Fortnightly",
+      "createdDate": "2015-03-03T12:21:26",
+      "startDate":"2015-03-18T12:21:26",
+      "payDay":"Friday",
+      "status":1
+    }
+   ],
   "letters": [
     {
       "id": "5bdbc345ac3fef894b151f1b",
