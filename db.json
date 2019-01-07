@@ -1532,6 +1532,45 @@
     "registered": "2014-06-16",
     "role": 3
   }
+],
+
+"assignUser":[
+  {
+    "id": "25feff12-8144-460d-ba7f-2a99f7433599",
+    "firstName": "Copeland",
+    "lastName": "Randall",
+    "gender": "male",
+    "email": "copelandrandall@xelegyl.com",
+    "mobile": "+61 (813) 445-2934",
+    "work": "+61 (974) 446-3009",
+    "registered": "2015-04-05",
+    "addedBy": "copelandrandall@xelegyl.com",
+    "role": 2
+  },
+  {
+    "id": "47adbded-a768-4091-958c-b168703572c2",
+    "firstName": "Hansen",
+    "lastName": "Sawyer",
+    "gender": "male",
+    "email": "hansensawyer@xelegyl.com",
+    "mobile": "+61 (963) 539-2461",
+    "work": "+61 (820) 458-3482",
+    "registered": "2018-08-01",
+    "addedBy": "hansensawyer@xelegyl.com",
+    "role": 2
+  },
+  {
+    "id": "191cbb93-0a18-49cc-b224-f140aae02b01",
+    "firstName": "Zamora",
+    "lastName": "Sullivan",
+    "gender": "male",
+    "email": "zamorasullivan@xelegyl.com",
+    "mobile": "+61 (897) 449-2733",
+    "work": "+61 (887) 412-3388",
+    "registered": "2017-11-27",
+    "addedBy": "zamorasullivan@xelegyl.com",
+    "role": 3
+  }
 ]
 
 
