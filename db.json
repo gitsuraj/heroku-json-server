@@ -1572,7 +1572,7 @@
     "role": 3
   }
 ],
-  "payScheduleProfile": 
+  "payScheduleProfile": [
   {"id":"80c851c0-956b-9eb9-0cb1-02e02e2996a7","name":"PaySchedule 1",
     "payDueDay":1,"generatePayRunDate":"2019-01-31T13:00:00.000Z","paymentDue":2,"approvalDue":5,
       "paymentDueTime":"2019-01-07T23:10:00.000Z","payOccurence":1,"generatePayRunDays":10,
@@ -1586,5 +1586,20 @@
       "method":{"name":"system","id" :"1"},
       "option":{"name":"keypay", "id":"2"},
     "fees":[{"id" :"1","name":"Fixed rate per employee","option":"2","value":"33"}]
+  },
+  {"id":"8io851c0-956b-9eb9-0cb1-02e02e2996a7","name":"PaySchedule 2",
+    "payDueDay":1,"generatePayRunDate":"2019-01-31T13:00:00.000Z","paymentDue":2,"approvalDue":5,
+      "paymentDueTime":"2019-01-07T23:10:00.000Z","payOccurence":1,"generatePayRunDays":10,
+      "generatePayRunTime":"2019-01-07T23:10:00.000Z","amendmentsDue":8,"amendmentsDueTime":"2019-01-07T23:10:00.000Z",
+      "payrunPreparationDue":6,"payrunPreparationDueTime":"2019-01-07T23:10:00.000Z","approvalDueTime":"2019-01-07T23:10:00.000Z",
+      "payrollModel":"PEO",
+
+    "businessUnitId": "EP_KP_BU_28",
+    "scheduleId":"PS_007",
+    "instance": "Keypay EP_NSW",
+      "method":{"name":"system","id" :"1"},
+      "option":{"name":"keypay", "id":"2"},
+    "fees":[{"id" :"1","name":"Fixed rate per employee","option":"2","value":"33"}]
   }
+]
 }
