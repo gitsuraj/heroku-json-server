@@ -1584,7 +1584,7 @@
     "scheduleId":"PS_007",
     "instance": "Keypay EP_NSW",
       "method":{"name":"system","id" :"1"},
-      "option":{"name":"keypay", "id":"1"},
-    "fees":[{"name":"Fixed rate per employee","option":"2","value":"33"}]
+      "option":{"name":"keypay", "id":"2"},
+    "fees":[{"id" :"1","name":"Fixed rate per employee","option":"2","value":"33"}]
   }
 }
