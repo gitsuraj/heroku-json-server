@@ -1604,7 +1604,7 @@
   }
 ],
 "payrun":[ 
-  {"id":"amdendments","data": [
+  {"id":"amendments","data": [
     {
       "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", "amendmentDueDate": "",
       "payDate": "2019-01-31", "amendmentCount": "1"
