@@ -1575,9 +1575,9 @@
   "payScheduleProfile": [
   {"id":"1","name":"PaySchedule 1",
     "payDueDay":1,"generatePayRunDate":"2019-01-31T13:00:00.000Z","paymentDue":2,"approvalDue":5,
-      "paymentDueTime":"2019-01-07T23:10:00.000Z","payOccurence":1,"generatePayRunDays":10,
-      "generatePayRunTime":"2019-01-07T23:10:00.000Z","amendmentsDue":8,"amendmentsDueTime":"2019-01-07T23:10:00.000Z",
-      "payrunPreparationDue":6,"payrunPreparationDueTime":"2019-01-07T23:10:00.000Z","approvalDueTime":"2019-01-07T23:10:00.000Z",
+      "paymentDueTime":"10:20 am","payOccurence":1,"generatePayRunDays":10,
+      "generatePayRunTime":"10:20 am","amendmentsDue":8,"amendmentsDueTime":"10:20 am",
+      "payrunPreparationDue":6,"payrunPreparationDueTime":"10:20 am","approvalDueTime":"10:20 am",
       "payrollModel":"PEO",
 
     "businessUnitId": "EP_KP_BU_28",
@@ -1587,11 +1587,12 @@
       "option":{"name":"keypay", "id":"2"},
     "fees":[{"id" :"1","name":"Fixed rate per employee","option":"2","value":"33"}]
   },
+  
   {"id":"2","name":"PaySchedule 2",
     "payDueDay":1,"generatePayRunDate":"2019-01-31T13:00:00.000Z","paymentDue":2,"approvalDue":5,
-      "paymentDueTime":"2019-01-07T23:10:00.000Z","payOccurence":1,"generatePayRunDays":10,
-      "generatePayRunTime":"2019-01-07T23:10:00.000Z","amendmentsDue":8,"amendmentsDueTime":"2019-01-07T23:10:00.000Z",
-      "payrunPreparationDue":6,"payrunPreparationDueTime":"2019-01-07T23:10:00.000Z","approvalDueTime":"2019-01-07T23:10:00.000Z",
+      "paymentDueTime":"10:20 am","payOccurence":1,"generatePayRunDays":10,
+      "generatePayRunTime":"10:20 am","amendmentsDue":8,"amendmentsDueTime":"10:20 am",
+      "payrunPreparationDue":6,"payrunPreparationDueTime":"10:20 am","approvalDueTime":"10:20 am",
       "payrollModel":"PEO",
 
     "businessUnitId": "EP_KP_BU_28",
