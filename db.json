@@ -113,6 +113,8 @@
    "payschedules":[
     {
       "id":1,
+      "company": "Halo Corporation",
+      "businessUnit": "Halo Energy Pvt Ltd",
       "occurrence":"Monthly",
       "createdDate": "2015-03-03T12:21:26",
       "startDate":"2015-03-18T12:21:26",
@@ -121,11 +123,33 @@
     },
     {
       "id":2,
+      "company": "Halo Corporation",
+      "businessUnit": "Halo Energy Pvt Ltd",
       "occurrence":"Fortnightly",
       "createdDate": "2015-03-03T12:21:26",
       "startDate":"2015-03-18T12:21:26",
       "payDay":"Friday",
       "status":1
+    },
+    {
+      "id":3,
+      "company": "Halo Corporation",
+      "businessUnit": "Halo Energy Pvt Ltd",
+      "occurrence":"Monthly",
+      "createdDate": "2015-03-03T12:21:26",
+      "startDate":"2015-03-18T12:21:26",
+      "payDay":25,
+      "status":2
+    },
+    {
+      "id":4,
+      "company": "Halo Corporation",
+      "businessUnit": "Halo Energy Pvt Ltd",
+      "occurrence":"Fortnightly",
+      "createdDate": "2015-03-03T12:21:26",
+      "startDate":"2015-03-18T12:21:26",
+      "payDay":"Thursday",
+      "status":2
     }
    ],
    "payrolllookup":[
