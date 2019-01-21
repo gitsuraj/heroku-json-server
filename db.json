@@ -59,7 +59,7 @@
     "workNumber":"3453453",
     "roleID":"4"
   },
-  
+
   "companylookup":[
     {
       "id": "2477e909-1590-84ee-967b-9648ed048196",
@@ -178,7 +178,10 @@
     {
       "id":1,
       "company": "Halo Corporation",
+      "companyId": "3857f963-41bf-2ef9-f35b-51e70e9db28e",
       "businessUnit": "Halo Energy Pvt Ltd",
+      "businessUnitId": "4dc64967-fadf-2b55-1c55-abfc3f59fd59",
+      "country": "Japan",
       "occurrence":"Monthly",
       "createdDate": "2015-03-03T12:21:26",
       "startDate":"2015-03-18T12:21:26",
@@ -188,7 +191,10 @@
     {
       "id":2,
       "company": "Halo Corporation",
+      "companyId": "3857f963-41bf-2ef9-f35b-51e70e9db28e",
       "businessUnit": "Halo Energy Pvt Ltd",
+      "businessUnitId": "4dc64967-fadf-2b55-1c55-abfc3f59fd59",
+      "country": "USA",
       "occurrence":"Fortnightly",
       "createdDate": "2015-03-03T12:21:26",
       "startDate":"2015-03-18T12:21:26",
@@ -198,7 +204,10 @@
     {
       "id":3,
       "company": "Halo Corporation",
+      "companyId": "3857f963-41bf-2ef9-f35b-51e70e9db28e",
       "businessUnit": "Halo Energy Pvt Ltd",
+      "businessUnitId": "4dc64967-fadf-2b55-1c55-abfc3f59fd59",
+      "country": "Australia",
       "occurrence":"Monthly",
       "createdDate": "2015-03-03T12:21:26",
       "startDate":"2015-03-18T12:21:26",
@@ -208,7 +217,10 @@
     {
       "id":4,
       "company": "Halo Corporation",
+      "companyId": "3857f963-41bf-2ef9-f35b-51e70e9db28e",
       "businessUnit": "Halo Energy Pvt Ltd",
+      "businessUnitId": "4dc64967-fadf-2b55-1c55-abfc3f59fd59",
+      "country": "China",
       "occurrence":"Fortnightly",
       "createdDate": "2015-03-03T12:21:26",
       "startDate":"2015-03-18T12:21:26",
