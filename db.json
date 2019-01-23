@@ -1743,5 +1743,57 @@
     }
   ]
   }
+],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"partners": [
+  {
+    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
+    "partner": "Easypayroll",
+    "contactPerson": "Richard Hendrix",
+    "email": "info@easypayroll.com",
+    "location": "Australia",
+    "pendingClients": 11,
+    "totalClients": 231,
+    "role": "Affiliate",
+    "status": "Invited"
+  },
+  {
+    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
+    "partner": "Innovent",
+    "contactPerson": "Charley Dawson",
+    "email": "info@innovent.com",
+    "location": "Canada",
+    "pendingClients": 9,
+    "totalClients": 111,
+    "role": "Publisher",
+    "status": "Active"
+  },
+  {
+    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
+    "partner": "Swiftfox",
+    "contactPerson": "Tony Anderson",
+    "email": "info@swiftfox.com",
+    "location": "USA",
+    "pendingClients": 20,
+    "totalClients": 150,
+    "role": "Affiliate",
+    "status": "Disabled"
+  }
 ]
+
 }
