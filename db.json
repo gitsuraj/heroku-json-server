@@ -1770,7 +1770,7 @@
     "pendingClients": 11,
     "totalClients": 231,
     "role": "Affiliate",
-    "status": "Invited"
+    "status": "1"
   },
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
@@ -1781,7 +1781,7 @@
     "pendingClients": 9,
     "totalClients": 111,
     "role": "Publisher",
-    "status": "Active"
+    "status": "2"
   },
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
@@ -1792,7 +1792,7 @@
     "pendingClients": 20,
     "totalClients": 150,
     "role": "Affiliate",
-    "status": "Disabled"
+    "status": "3"
   }
 ]
 
