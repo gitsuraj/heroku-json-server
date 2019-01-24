@@ -1794,6 +1794,36 @@
     "role": "Affiliate",
     "status": "3"
   }
+],
+
+"clients": [
+  {
+    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
+    "client": "Acme Corp",
+    "contactPerson": "Richard Hendrix",
+    "email": "info@easypayroll.com",
+    "location": "Australia",
+    "affiliate": "Easy Payroll",
+    "status": "1"
+  },
+  {
+    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
+    "client": "Globex",
+    "contactPerson": "Charley Dawson",
+    "email": "info@innovent.com",
+    "location": "Canada",
+    "affiliate": "Innovent",
+    "status": "2"
+  },
+  {
+    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
+    "client": "Trinity",
+    "contactPerson": "Tony Anderson",
+    "email": "info@swiftfox.com",
+    "location": "USA",
+    "affiliate": "Swiftfox",
+    "status": "3"
+  }
 ]
 
 }
