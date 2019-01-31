@@ -1763,77 +1763,80 @@
 "partners": [
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
-    "partner": "Easypayroll",
+    "name": "Easypayroll",
+    "registeredName": "Easypayroll",
     "contactPerson": "Richard Hendrix",
     "email": "info@easypayroll.com",
-    "location": "Australia",
+    "country": "Australia",
     "pendingClients": 11,
     "totalClients": 231,
     "role": "Affiliate",
     "status": "1",
     "businessAddress": {
-      "businessAddress1": "14 styvesant st",
-      "businessAddress2": "Union Square",
-      "businessSuburb": "New York",
-      "businessState": "Manhattan",
-      "businessPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     },
     "postalAddress": {
-      "postalAddress1": "14 styvesant st",
-      "postalAddress2": "Union Square",
-      "postalSuburb": "New York",
-      "postalState": "Manhattan",
-      "postalPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     }
   },
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
-    "partner": "Innovent",
+    "name": "Innovent",
+    "registeredName": "Innovent",
     "contactPerson": "Charley Dawson",
     "email": "info@innovent.com",
-    "location": "Canada",
+    "country": "Canada",
     "pendingClients": 9,
     "totalClients": 111,
     "role": "Publisher",
     "status": "2",
     "businessAddress": {
-      "businessAddress1": "14 styvesant st",
-      "businessAddress2": "Union Square",
-      "businessSuburb": "New York",
-      "businessState": "Manhattan",
-      "businessPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     },
     "postalAddress": {
-      "postalAddress1": "14 styvesant st",
-      "postalAddress2": "Union Square",
-      "postalSuburb": "New York",
-      "postalState": "Manhattan",
-      "postalPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     }
   },
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
-    "partner": "Swiftfox",
+    "name": "Swiftfox",
+    "registeredName": "Swiftfox",
     "contactPerson": "Tony Anderson",
     "email": "info@swiftfox.com",
-    "location": "USA",
+    "country": "USA",
     "pendingClients": 20,
     "totalClients": 150,
     "role": "Affiliate",
     "status": "3",
     "businessAddress": {
-      "businessAddress1": "14 styvesant st",
-      "businessAddress2": "Union Square",
-      "businessSuburb": "New York",
-      "businessState": "Manhattan",
-      "businessPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     },
     "postalAddress": {
-      "postalAddress1": "14 styvesant st",
-      "postalAddress2": "Union Square",
-      "postalSuburb": "New York",
-      "postalState": "Manhattan",
-      "postalPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     }
   }
 ],
@@ -1841,71 +1844,74 @@
 "clients": [
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
-    "client": "Acme Corp",
+    "name": "Acme Corp",
+    "registeredName": "Acme Corp",
     "contactPerson": "Richard Hendrix",
     "email": "info@easypayroll.com",
-    "location": "Australia",
+    "country": "Australia",
     "affiliate": "Easy Payroll",
     "status": "1",
     "businessAddress": {
-      "businessAddress1": "14 styvesant st",
-      "businessAddress2": "Union Square",
-      "businessSuburb": "New York",
-      "businessState": "Manhattan",
-      "businessPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     },
     "postalAddress": {
-      "postalAddress1": "14 styvesant st",
-      "postalAddress2": "Union Square",
-      "postalSuburb": "New York",
-      "postalState": "Manhattan",
-      "postalPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     }
   },
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
-    "client": "Globex",
+    "name": "Globex",
+    "registeredName": "Globex",
     "contactPerson": "Charley Dawson",
     "email": "info@innovent.com",
-    "location": "Canada",
+    "country": "Canada",
     "affiliate": "Innovent",
     "status": "2",
-    "businessAddress": {
-      "businessAddress1": "14 styvesant st",
-      "businessAddress2": "Union Square",
-      "businessSuburb": "New York",
-      "businessState": "Manhattan",
-      "businessPostalCode": "11385"
+   "businessAddress": {
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     },
     "postalAddress": {
-      "postalAddress1": "14 styvesant st",
-      "postalAddress2": "Union Square",
-      "postalSuburb": "New York",
-      "postalState": "Manhattan",
-      "postalPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     }
   },
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
-    "client": "Trinity",
+    "name": "Trinity",
+    "registeredName": "Trinity",
     "contactPerson": "Tony Anderson",
     "email": "info@swiftfox.com",
-    "location": "USA",
+    "country": "USA",
     "affiliate": "Swiftfox",
     "status": "3",
-    "businessAddress": {
-      "businessAddress1": "14 styvesant st",
-      "businessAddress2": "Union Square",
-      "businessSuburb": "New York",
-      "businessState": "Manhattan",
-      "businessPostalCode": "11385"
+   "businessAddress": {
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     },
     "postalAddress": {
-      "postalAddress1": "14 styvesant st",
-      "postalAddress2": "Union Square",
-      "postalSuburb": "New York",
-      "postalState": "Manhattan",
-      "postalPostalCode": "11385"
+      "address1": "14 styvesant st",
+      "address2": "Union Square",
+      "suburb": "New York",
+      "state": "Manhattan",
+      "postalCode": "11385"
     }
   }
 ]
