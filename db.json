@@ -1764,6 +1764,7 @@
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
     "name": "Easypayroll",
+    "abn": "123242424242",
     "registeredName": "Easypayroll",
     "contactPerson": "Richard Hendrix",
     "email": "info@easypayroll.com",
@@ -1790,6 +1791,7 @@
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
     "name": "Innovent",
+    "abn": "123242424242",
     "registeredName": "Innovent",
     "contactPerson": "Charley Dawson",
     "email": "info@innovent.com",
@@ -1816,6 +1818,7 @@
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
     "name": "Swiftfox",
+    "abn": "123242424242",
     "registeredName": "Swiftfox",
     "contactPerson": "Tony Anderson",
     "email": "info@swiftfox.com",
@@ -1845,6 +1848,7 @@
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
     "name": "Acme Corp",
+    "abn": "123242424242",
     "registeredName": "Acme Corp",
     "contactPerson": "Richard Hendrix",
     "email": "info@easypayroll.com",
@@ -1869,6 +1873,7 @@
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
     "name": "Globex",
+    "abn": "123242424242",
     "registeredName": "Globex",
     "contactPerson": "Charley Dawson",
     "email": "info@innovent.com",
@@ -1893,6 +1898,7 @@
   {
     "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
     "name": "Trinity",
+    "abn": "123242424242",
     "registeredName": "Trinity",
     "contactPerson": "Tony Anderson",
     "email": "info@swiftfox.com",
