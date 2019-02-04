@@ -1703,6 +1703,36 @@
     "fees":[{"id" :"1","name":"Fixed rate per employee","option":"2","value":"33"}]
   }
 ],
+"payschedule":[ 
+  {"id":"active","data": [
+    {
+      "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", 
+      "payDay": "31"
+    },
+    {
+      "id": "2", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-05", 
+      "payDay": "Friday"
+    },
+    {
+      "id": "3", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Fortnightly", "cycleStartDate": "2019-01-27", 
+      "payDay": "28"
+    }
+  ]
+},
+{"id":"deactive","data": [
+    {
+      "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", 
+      "payDay": "Thursday"
+    },
+    {
+      "id": "3", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Fortnightly", "cycleStartDate": "2019-01-27", 
+      "payDay": "27"
+    }
+  ]
+}
+,
+],
+
 "payrun":[ 
   {"id":"amendments","data": [
     {
