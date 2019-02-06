@@ -1725,10 +1725,28 @@
       "payDay": "Thursday"
     },
     {
-      "id": "3", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Fortnightly", "cycleStartDate": "2019-01-27", 
+      "id": "2", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Fortnightly", "cycleStartDate": "2019-01-27", 
       "payDay": "27"
     }
   ]
+},
+{
+  "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDays": "5", "cycleStartTime": "5:00 PM (AEST)",
+      "payDay": "31","payDate": "31/11/2018", "generatePayrunDays": "5", "generatePayrunTime": "5: 00 PM (AEST)",
+      "amendmentDueDays": "5", "amendmentDueTime": "5: 00 PM (AEST)", "payrunPreparationDueDays": "7", "payrunPreparationDueTime": "5 PM (AEST)", 
+      "approvalDueDays": "2", "approvalDuetime": "5 PM (AEST)","businessModel": "PEO", "paymentDueDays": "2", "paymentDueTime": "5 PM (AEST)"
+},
+{
+  "id": "2", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDays": "5", "cycleStartTime": "5:00 PM (AEST)",
+      "payDay": "31","payDate": "31/11/2018", "generatePayrunDays": "5", "generatePayrunTime": "5: 00 PM (AEST)",
+      "amendmentDueDays": "5", "amendmentDueTime": "5: 00 PM (AEST)", "payrunPreparationDueDays": "7", "payrunPreparationDueTime": "5 PM (AEST)", 
+      "approvalDueDays": "2", "approvalDuetime": "5 PM (AEST)","businessModel": "PEO", "paymentDueDays": "2", "paymentDueTime": "5 PM (AEST)"
+},
+{
+  "id": "3", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDays": "5", "cycleStartTime": "5:00 PM (AEST)",
+      "payDay": "31","payDate": "31/11/2018", "generatePayrunDays": "5", "generatePayrunTime": "5: 00 PM (AEST)",
+      "amendmentDueDays": "5", "amendmentDueTime": "5: 00 PM (AEST)", "payrunPreparationDueDays": "7", "payrunPreparationDueTime": "5 PM (AEST)", 
+      "approvalDueDays": "2", "approvalDuetime": "5 PM (AEST)","businessModel": "PEO", "paymentDueDays": "2", "paymentDueTime": "5 PM (AEST)"
 }
 ],
 
