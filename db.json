@@ -1823,7 +1823,29 @@
       "amendment": [{"id": "1","amendmentType": "Substraction", "summary": "Release employee 3458", "requestedDate": "2019-01-15", "requestedBy": "katew@halocorp.com.au",
         "actionedDate": "2019-01-17", "actionedBy": "jimp@easypayroll.com.au"}, {"id": "2","amendmentType": "Addition", "summary": "Add employee 3458", "requestedDate": "2019-01-15", "requestedBy": "katew@halocorp.com.au",
           "actionedDate": "2019-01-17", "actionedBy": "jimp@easypayroll.com.au"}]
-    }
+    },
+    {"id":"total","data": [
+      {
+        "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", "amendmentDueDate": "2019-01-05",
+        "payDate": "2019-01-31", "amendmentCount": "1", "type": "ad-hoc","cycleEndDate": "2019-01-30", "status": "Amendments",
+        "ammendmentType": "Addition", "summary": "Add employee 3458", "requestedDate": "2019-01-15", "requestedBy": "katew@halocorp.com.au",
+        "actionedDate": "2019-01-17", "actionedBy": "jimp@easypayroll.com.au"
+        
+      },
+      {
+        "id": "2", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-05", "amendmentDueDate": "2019-01-05",
+        "payDate": "2019-01-31", "amendmentCount": "2","type": "ad-hoc", "cycleEndDate": "2019-01-30", "status": "Completed",
+        "ammendmentType": "Addition", "summary": "Add employee 3458", "requestedDate": "2019-01-15", "requestedBy": "katew@halocorp.com.au",
+        "actionedDate": "2019-01-17", "actionedBy": "jimp@easypayroll.com.au"
+      },
+      {
+        "id": "3", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Fortnightly", "cycleStartDate": "2019-01-27", "amendmentDueDate": "2019-01-05",
+        "payDate": "2019-02-17", "amendmentCount": "3","type": "scheduled", "cycleEndDate": "2019-01-30", "status": "Completed",
+        "ammendmentType": "Addition", "summary": "Add employee 3458", "requestedDate": "2019-01-15", "requestedBy": "katew@halocorp.com.au",
+        "actionedDate": "2019-01-17", "actionedBy": "jimp@easypayroll.com.au"
+      }
+    ]
+  }
 ],
 
 
