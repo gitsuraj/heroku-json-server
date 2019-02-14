@@ -2493,6 +2493,39 @@
       }
     ]
   }
+],
+
+"users" : [
+  {
+    "name": "Richard Hendrix",
+    "email": "info@easypayroll.com",
+    "status": "pending"
+  },
+  {
+    "name": "michael Hendrix",
+    "email": "info@easypayroll.com",
+    "status": "complete"
+  },
+  {
+    "name": "Richard Hays",
+    "email": "richard@easypayroll.com",
+    "status": "pending"
+  },
+  {
+    "name": "Robson Stark",
+    "email": "robson@easypayroll.com",
+    "status": "pending"
+  },
+  {
+    "name": "Tony Stark",
+    "email": "tony@stark.com",
+    "status": "complete"
+  },
+  {
+    "name": "Rickson James",
+    "email": "info@rickson.com",
+    "status": "complete"
+  }
 ]
 
 }
