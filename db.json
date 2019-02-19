@@ -1778,11 +1778,15 @@
     {
         "amount": "1,751.25",
         "category": "Easy Payroll on-boarding fees (7% of gross + super)"
+    },
+    {
+      "amount": 40164.72,
+      "category": "total"
     }
     ]
 
   },
-  
+
   {"id":"amendments","data": [
     {
       "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", "amendmentDueDate": "2019-01-05",
