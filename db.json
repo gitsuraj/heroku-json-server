@@ -1751,6 +1751,38 @@
 ],
 
 "payrun":[ 
+  {
+    "id": "summary",
+    "data": [
+      {
+        "amount": "2,098.20",
+        "category": "Superannuation (SGC)"
+    },
+    {
+        "amount": "0.00",
+        "category": "Superannuation (Salary Sacrifice)"
+    },
+    {
+        "amount": "0.00",
+        "category": "Expense Reimbursement"
+    },
+    
+    {
+        "amount": "1,363.48",
+        "category": "Employer Compulsary State Taxes (Payroll Tax)"
+    },
+    {
+        "amount": "750.54",
+        "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
+    },
+    {
+        "amount": "1,751.25",
+        "category": "Easy Payroll on-boarding fees (7% of gross + super)"
+    }
+    ]
+
+  },
+  
   {"id":"amendments","data": [
     {
       "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", "amendmentDueDate": "2019-01-05",
