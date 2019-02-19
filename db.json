@@ -1895,61 +1895,61 @@
 "keypay": [
   {
     "id": "1",
-    "data": [{ "name": "Jason Fried", "grossPayment": "AU$ 22,919.70", "total": "Total", "dueAmount": "AU$ 28,883.17",
+    "data": [{ "name": "Jason Fried", "grossPayment": "22,919.70", "total": "Total", "dueAmount": "28,883.17",
       "subCategory": [
        {
-           "amount": "AU$ 2,098.20",
+           "amount": "2,098.20",
            "category": "Superannuation (SGC)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Superannuation (Salary Sacrifice)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Expense Reimbursement"
        },
        
        {
-           "amount": "AU$ 1,363.48",
+           "amount": "1,363.48",
            "category": "Employer Compulsary State Taxes (Payroll Tax)"
        },
        {
-           "amount": "AU$ 750.54",
+           "amount": "750.54",
            "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
        },
        {
-           "amount": "AU$ 1,751.25",
+           "amount": "1,751.25",
            "category": "Easy Payroll on-boarding fees (7% of gross + super)"
        }
 
    ]
 },
-{ "name": "Megan Greene", "grossPayment": "AU$ 8.958.73", "total": "Total", "dueAmount": "AU$ 11,281.55",
+{ "name": "Megan Greene", "grossPayment": "8.958.73", "total": "Total", "dueAmount": "11,281.55",
       "subCategory": [
        {
-           "amount": "AU$ 813.08",
+           "amount": "813.08",
            "category": "Superannuation (SGC)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Superannuation (Salary Sacrifice)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Expense Reimbursement"
        },
        
        {
-           "amount": "AU$ 532.56",
+           "amount": "532.56",
            "category": "Employer Compulsary State Taxes (Payroll Tax)"
        },
        {
-           "amount": "AU$ 293.15",
+           "amount": "293.15",
            "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
        },
        {
-           "amount": "AU$ 684.03",
+           "amount": "684.03",
            "category": "Easy Payroll on-boarding fees (7% of gross + super)"
        }
 
@@ -1959,61 +1959,61 @@
   },
   {
     "id": "2",
-    "data": [{ "name": "Charlie Fried", "grossPayment": "AU$ 22,919.70", "total": "Total", "dueAmount": "AU$ 28,883.17",
+    "data": [{ "name": "Charlie Fried", "grossPayment": "22,919.70", "total": "Total", "dueAmount": "28,883.17",
       "subCategory": [
        {
-           "amount": "AU$ 2,098.20",
+           "amount": "2,098.20",
            "category": "Superannuation (SGC)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Superannuation (Salary Sacrifice)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Expense Reimbursement"
        },
        
        {
-           "amount": "AU$ 1,363.48",
+           "amount": "1,363.48",
            "category": "Employer Compulsary State Taxes (Payroll Tax)"
        },
        {
-           "amount": "AU$ 750.54",
+           "amount": "750.54",
            "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
        },
        {
-           "amount": "AU$ 1,751.25",
+           "amount": "1,751.25",
            "category": "Easy Payroll on-boarding fees (7% of gross + super)"
        }
 
    ]
 },
-{ "name": "Malcolm Greene", "grossPayment": "AU$ 8.958.73", "total": "Total", "dueAmount": "AU$ 11,281.55",
+{ "name": "Malcolm Greene", "grossPayment": "8.958.73", "total": "Total", "dueAmount": "11,281.55",
       "subCategory": [
        {
-           "amount": "AU$ 813.08",
+           "amount": "813.08",
            "category": "Superannuation (SGC)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Superannuation (Salary Sacrifice)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Expense Reimbursement"
        },
        
        {
-           "amount": "AU$ 532.56",
+           "amount": "532.56",
            "category": "Employer Compulsary State Taxes (Payroll Tax)"
        },
        {
-           "amount": "AU$ 293.15",
+           "amount": "293.15",
            "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
        },
        {
-           "amount": "AU$ 684.03",
+           "amount": "684.03",
            "category": "Easy Payroll on-boarding fees (7% of gross + super)"
        }
 
@@ -2023,61 +2023,61 @@
   },
   {
     "id": "3",
-    "data": [{ "name": "Simon Fried", "grossPayment": "AU$ 22,919.70", "total": "Total", "dueAmount": "AU$ 28,883.17",
+    "data": [{ "name": "Simon Fried", "grossPayment": "22,919.70", "total": "Total", "dueAmount": "28,883.17",
       "subCategory": [
        {
-           "amount": "AU$ 2,098.20",
+           "amount": "2,098.20",
            "category": "Superannuation (SGC)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Superannuation (Salary Sacrifice)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Expense Reimbursement"
        },
        
        {
-           "amount": "AU$ 1,363.48",
+           "amount": "1,363.48",
            "category": "Employer Compulsary State Taxes (Payroll Tax)"
        },
        {
-           "amount": "AU$ 750.54",
+           "amount": "750.54",
            "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
        },
        {
-           "amount": "AU$ 1,751.25",
+           "amount": "1,751.25",
            "category": "Easy Payroll on-boarding fees (7% of gross + super)"
        }
 
    ]
 },
-{ "name": "Mary Greene", "grossPayment": "AU$ 8.958.73", "total": "Total", "dueAmount": "AU$ 11,281.55",
+{ "name": "Mary Greene", "grossPayment": "8.958.73", "total": "Total", "dueAmount": "11,281.55",
       "subCategory": [
        {
-           "amount": "AU$ 813.08",
+           "amount": "813.08",
            "category": "Superannuation (SGC)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Superannuation (Salary Sacrifice)"
        },
        {
-           "amount": "AU$ 0.00",
+           "amount": "0.00",
            "category": "Expense Reimbursement"
        },
        
        {
-           "amount": "AU$ 532.56",
+           "amount": "532.56",
            "category": "Employer Compulsary State Taxes (Payroll Tax)"
        },
        {
-           "amount": "AU$ 293.15",
+           "amount": "293.15",
            "category": "Employer Compulsary Insurances (PI, PL, Workers Compensation) (3.0%)"
        },
        {
-           "amount": "AU$ 684.03",
+           "amount": "684.03",
            "category": "Easy Payroll on-boarding fees (7% of gross + super)"
        }
 
