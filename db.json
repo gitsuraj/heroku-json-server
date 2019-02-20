@@ -2219,7 +2219,7 @@
 
 "clients": [
   {
-    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718ae9",
+    "id": "1",
     "name": "Acme Corp",
     "abn": "123242424242",
     "registeredName": "Acme Corp",
@@ -2244,7 +2244,7 @@
     }
   },
   {
-    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeg",
+    "id": "2",
     "name": "Globex",
     "abn": "123242424242",
     "registeredName": "Globex",
@@ -2269,7 +2269,7 @@
     }
   },
   {
-    "id": "02b1dfa5-91f1-4df7-c320-fa5a66718aeh",
+    "id": "3",
     "name": "Trinity",
     "abn": "123242424242",
     "registeredName": "Trinity",
