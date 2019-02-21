@@ -2952,6 +2952,45 @@
     "email": "info@rickson.com",
     "status": "complete"
   }
+],
+
+"partnersByCountry": [
+  {
+    "id": 1,
+    "country": "Australia",
+    "number": 7, 
+    "coordinates": [133.77513599999997, -25.274398] 
+  },
+  {
+    "id": 2,
+    "country": "USA",
+    "number": 5, 
+    "coordinates": [-95.71289100000001, 37.09024]
+  },
+  {
+    "id": 3,
+    "country": "China",
+    "number": 12, 
+    "coordinates": [104.19539699999996, 35.86166]
+  },
+  {
+    "id": 4,
+    "country": "Indonesia",
+    "number": 12, 
+    "coordinates": [104.19539699999996, 35.86166]
+  },
+  {
+    "id": 5,
+    "country": "Japan",
+    "number": 8, 
+    "coordinates": [113.92132700000002, -0.789275]
+  },
+  {
+    "id": 6,
+    "country": "UK",
+    "number": 8, 
+    "coordinates": [-0.118092, 51.509865]
+  }
 ]
 
 }
