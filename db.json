@@ -1789,10 +1789,21 @@
 
   {"id":"amendments","data": [
     {
-      "id": "1", "company": "Halo Corporation", "businessUnit": "Halo Energy Pvt Ltd", "occurence": "Monthly", "cycleStartDate": "2019-01-10", "amendmentDueDate": "2019-01-05",
-      "payDate": "2019-01-31", "amendmentCount": "1", "type": "ad-hoc","cycleEndDate": "2019-01-30", 
-      "ammendmentType": "Addition", "summary": "Add employee 3458", "requestedDate": "2019-01-15", "requestedBy": "katew@halocorp.com.au",
-      "actionedDate": "2019-01-17", "actionedBy": "jimp@easypayroll.com.au"
+      "id": "1", "company": "Halo Corporation", 
+      "businessUnit": "Halo Energy Pvt Ltd",
+       "occurence": "Monthly",
+        "cycleStartDate": "2019-01-10",
+         "amendmentDueDate": "2019-01-05",
+      "payDate": "2019-01-31",
+       "amendmentCount": "1", 
+       "type": "ad-hoc",
+       "cycleEndDate": "2019-01-30", 
+      "ammendmentType": "Addition", 
+      "summary": "Add employee 3458", 
+      "requestedDate": "2019-01-15", 
+      "requestedBy": "katew@halocorp.com.au",
+      "actionedDate": "2019-01-17", 
+      "actionedBy": "jimp@easypayroll.com.au"
       
     },
     {
@@ -1930,7 +1941,7 @@
 
 "keypay": [
   {
-    "id": "1",
+    "id": "24de2702-1757-4715-3a54-08d6a366dd7a",
     "data": [{ "name": "Jason Fried", "grossPayment": "22,919.70", "total": "Total", "dueAmount": "28,883.17",
       "subCategory": [
        {
