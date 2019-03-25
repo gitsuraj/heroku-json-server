@@ -1780,7 +1780,7 @@
         "category": "Easy Payroll on-boarding fees (7% of gross + super)"
     },
     {
-      "amount": 40164.72,
+      "amount": "40164.72",
       "category": "total"
     }
     ]
