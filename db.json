@@ -59,6 +59,24 @@
     "workNumber":"3453453",
     "roleID":"4"
   },
+  "PayrollManager":{
+  	"userId":"16f9b6aa-a6ce-49db-88a0-4c839b36e94e",
+    "firstName":"PayrollManager",
+    "lastName":"User",
+    "email":"payrollsupervisor@expedo.co",
+    "mobileNumber":"0434554545",
+    "workNumber":"3453453",
+    "roleID":"5"
+  },
+  "PayrollSuperVisor":{
+  	"userId":"16f9b6aa-a6ce-49db-88a0-4c839b36e94e",
+    "firstName":"PayrollSuperVisor",
+    "lastName":"User",
+    "email":"payrollsupervisor@expedo.co",
+    "mobileNumber":"0434554545",
+    "workNumber":"3453453",
+    "roleID":"6"
+  },
 
   "companylookup":[
     {
