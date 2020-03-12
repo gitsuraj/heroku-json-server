@@ -108,11 +108,6 @@
             "stepID": 1,
             "title": "Introduction",
             "stepType" : 1   
-          },
-          {
-            "stepID": 2,
-            "title": "First Step",
-            "stepType": 2
           }
         ]
       }
@@ -144,7 +139,219 @@
         "modifiedOn": "2019-11-06T00:14:34.783",
         "authorName": "Publisher af",
         "id": 115,
-        "steps": ""
+        "steps": [
+      {
+        "id": 386,
+        "title": "Introduction",
+        "stepContentTypeID": 1,
+        "workflowDialogID": 38,
+        "message": "<p>Welcome</p>\n<p>etc</p>",
+        "connectors": [
+          {
+            "id": 38,
+            "caption": "Continue",
+            "nextStepType": "S",
+            "nextStepId": 387
+          }
+        ],
+        "sortOrder": 1,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 387,
+        "title": "Second Step",
+        "stepContentTypeID": 2,
+        "questions": [
+          {
+            "id": 56,
+            "questionTitle": "Question 1",
+            "questionGuide": "",
+            "questionType": "3",
+            "isWeighted": true,
+            "options": "[{\"value\":\"A\",\"weight\":10},{\"value\":\"B\",\"weight\":20},{\"value\":\"C\",\"weight\":30}]",
+            "mergeField": null
+          },
+          {
+            "id": 67,
+            "questionTitle": "Question option test",
+            "questionGuide": "<pre style=\"background-color: #2b2b2b; color: #a9b7c6; font-family: 'Menlo'; font-size: 9.0pt;\"><span style=\"color: #bababa;\">style</span><span style=\"color: #6a8759;\">=</span>{{<span style=\"color: #9876aa;\">width</span>: <span style=\"color: #6a8759;\">'80px'</span>}}</pre>",
+            "questionType": "3",
+            "isWeighted": true,
+            "options": "[{\"value\":\"A1m\",\"weight\":10},{\"value\":\"V2\",\"weight\":20},{\"value\":\"C3\",\"weight\":30}]",
+            "mergeField": null
+          },
+          {
+            "id": 78,
+            "questionTitle": "Stengths",
+            "questionGuide": "<p>Enter each strenght in a separate line.</p>",
+            "questionType": "2",
+            "isWeighted": false,
+            "options": "[{\"value\":\"\",\"weight\":0}]",
+            "mergeField": null
+          }
+        ],
+        "sortOrder": 2,
+        "nextStepID": 433,
+        "nextStepType": "S"
+      },
+      {
+        "id": 388,
+        "title": "B",
+        "stepContentTypeID": 3,
+        "workflowContractID": 22,
+        "contractId": 782,
+        "sortOrder": 3,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 403,
+        "title": "Demo",
+        "stepContentTypeID": 7,
+        "defaultNextTypeType": null,
+        "defaultNextStepId": 0,
+        "rules": null,
+        "sortOrder": 4,
+        "stepTitle": null,
+        "questionTitle": null,
+        "nextStepTitle": null,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 422,
+        "title": "task lsit",
+        "stepContentTypeID": 6,
+        "sortOrder": 5,
+        "workflowStepID": 0,
+        "dueDateNumber": 0,
+        "dueDateDimension": null,
+        "assignedUserType": null,
+        "description": null,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 433,
+        "title": "The Document 123",
+        "stepContentTypeID": 5,
+        "description": null,
+        "fileId": 8549,
+        "fileName": "Untitled",
+        "filePath": "https://partnerportaldata001.blob.core.windows.net/file/236033f8-1ba7-40d1-a8f3-76a352336c08",
+        "mimeType": "application/octet-stream",
+        "sortOrder": 6,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 434,
+        "title": "Tasks",
+        "stepContentTypeID": 6,
+        "sortOrder": 7,
+        "workflowStepID": 0,
+        "dueDateNumber": 0,
+        "dueDateDimension": null,
+        "assignedUserType": null,
+        "description": null,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 453,
+        "title": "Another document",
+        "stepContentTypeID": 5,
+        "description": null,
+        "fileId": 8608,
+        "fileName": "Untitled",
+        "filePath": "https://partnerportaldata001.blob.core.windows.net/file/c37dbf42-793e-4f33-954f-c37d678f0768",
+        "mimeType": "application/octet-stream",
+        "sortOrder": 8,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 436,
+        "title": "Eval",
+        "stepContentTypeID": 7,
+        "defaultNextTypeType": null,
+        "defaultNextStepId": 0,
+        "rules": null,
+        "sortOrder": 9,
+        "stepTitle": null,
+        "questionTitle": null,
+        "nextStepTitle": null,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 458,
+        "title": "test",
+        "stepContentTypeID": 2,
+        "questions": [
+          {
+            "id": 79,
+            "questionTitle": "hjkynnb",
+            "questionGuide": "",
+            "questionType": "3",
+            "isWeighted": true,
+            "options": "[{\"value\":\"test\",\"weight\":\"1\"},{\"value\":\"r5r\",\"weight\":\"2\"}]",
+            "mergeField": null
+          }
+        ],
+        "sortOrder": 10,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 459,
+        "title": "eval",
+        "stepContentTypeID": 7,
+        "defaultNextTypeType": null,
+        "defaultNextStepId": 0,
+        "rules": null,
+        "sortOrder": 11,
+        "stepTitle": null,
+        "questionTitle": null,
+        "nextStepTitle": null,
+        "nextStepID": 436,
+        "nextStepType": "S"
+      },
+      {
+        "id": 460,
+        "title": "eee",
+        "stepContentTypeID": 2,
+        "questions": [],
+        "sortOrder": 12,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 461,
+        "title": "etc",
+        "stepContentTypeID": 0,
+        "sortOrder": 13,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 550,
+        "title": "test",
+        "stepContentTypeID": 0,
+        "sortOrder": 14,
+        "nextStepID": 0,
+        "nextStepType": null
+      },
+      {
+        "id": 564,
+        "title": "Test",
+        "stepContentTypeID": 0,
+        "sortOrder": 15,
+        "nextStepID": 0,
+        "nextStepType": null
+      }
+    ]
       },
       {
         "name": "Path test",
