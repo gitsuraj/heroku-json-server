@@ -4,119 +4,7 @@
     "expires_in": 1540263656,
     "token_type": "bearer"
   },
-    "workflows":[
-      {
-        "id": 1,
-        "name": "Workflow One",
-        "description": "Sample description",
-        "assigneeID": 2,
-        "Assignee": {
-          "id": "d01b1d83-892a-45c3-ab2c-0212ebbf6f36",
-          "firstName": "Example ",
-          "lastName": "One",
-          "client": "ABC Company"
-        },
-        "employeeID": 3,
-        "employee": {
-          "id": 5,
-          "firstName": "Employee",
-          "lastName": "Test",
-        },
-        "statusID": 1,
-        "status": {
-          "id": 1,
-          "name": "In-progress"
-        },
-        "externalID": 1001,
-        "version": 1,
-        "stepsCompleted": [
-          {
-            "stepID": 1,
-            "title": "Introduction",
-            "stepType" : 1   
-          },
-          {
-            "stepID": 2,
-            "title": "First Step",
-            "stepType": 2   
-          }
-        ]
-      },
-      {
-        "id": 1,
-        "name": "Workflow One",
-        "description": "Sample description",
-        "assigneeID": 2,
-        "Assignee": {
-          "id": "d01b1d83-892a-45c3-ab2c-0212ebbf6f36",
-          "firstName": "Radial ",
-          "lastName": "One",
-          "client": "ABC Company"
-        },
-        "employeeID": 3,
-        "employee": {
-          "id": 5,
-          "firstName": "Employee",
-          "lastName": "Third",
-        },
-        "statusID": 1,
-        "status": {
-          "id": 1,
-          "name": "In-progress"
-        },
-        "externalID": 1001,
-        "version": 1,
-        "stepsCompleted": [
-          {
-            "stepID": 1,
-            "title": "Introduction",
-            "stepType" : 1   
-          },
-          {
-            "stepID": 2,
-            "title": "First Step",
-            "stepType": 2   
-          }
-        ]
-      },
-      {
-        "id": 1,
-        "name": "Workflow One",
-        "description": "Sample description",
-        "assigneeID": 2,
-        "Assignee": {
-          "id": "d01b1d83-892a-45c3-ab2c-0212ebbf6f36",
-          "firstName": "Example 2",
-          "lastName": "Two",
-          "client": "XYG Company"
-        },
-        "employeeID": 3,
-        "employee": {
-          "id": 5,
-          "firstName": "User One",
-          "lastName": "lastName",
-        },
-        "statusID": 1,
-        "status": {
-          "id": 2,
-          "name": "Completed"
-        },
-        "externalID": 1001,
-        "version": 1,
-        "stepsCompleted": [
-          {
-            "stepID": 1,
-            "title": "Introduction",
-            "stepType" : 1   
-          },
-          {
-            "stepID": 2,
-            "title": "First Step",
-            "stepType": 2   
-          }
-        ]
-      }
-  ],
+ 
   "workflowTemplate":[
       {
         "name": "Workflow by Daniel",
@@ -186,7 +74,7 @@
         "modifiedOn": "2020-03-08T22:55:26.843",
         "authorName": "Publisher af",
         "id": 130,
-        "steps": ""
+        "steps": 
       }
     ]
 }
