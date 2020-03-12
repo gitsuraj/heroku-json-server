@@ -43,7 +43,7 @@
         ]
       },
       {
-        "id": 1,
+        "id": 2,
         "name": "Workflow One",
         "description": "Sample description",
         "assigneeID": 2,
@@ -80,7 +80,7 @@
         ]
       },
       {
-        "id": 1,
+        "id": 4,
         "name": "Workflow One",
         "description": "Sample description",
         "assigneeID": 2,
@@ -101,7 +101,7 @@
           "id": 2,
           "name": "Completed"
         },
-        "externalID": 1001,
+        "externalID": 115,
         "version": 1,
         "stepsCompleted": [
           {
