@@ -4,77 +4,117 @@
     "expires_in": 1540263656,
     "token_type": "bearer"
   },
- 
-  "workflowTemplate":[
+    "workflows":[
       {
-        "name": "Workflow by Daniel",
-        "workflowStatusId": 1,
-        "workflowStatusName": "Draft",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2019-09-18T04:11:19.99",
-        "modifiedOn": "2020-03-02T06:39:57.947",
-        "authorName": "Publisher af",
-        "id": 103,
-        "steps": ""
+        "id": 1,
+        "name": "Workflow One",
+        "description": "Sample description",
+        "assigneeID": 2,
+        "Assignee": {
+          "id": "d01b1d83-892a-45c3-ab2c-0212ebbf6f36",
+          "firstName": "Example ",
+          "lastName": "One",
+          "client": "ABC Company"
+        },
+        "employeeID": 3,
+        "employee": {
+          "id": 5,
+          "firstName": "Employee",
+          "lastName": "Test",
+        },
+        "statusID": 1,
+        "status": {
+          "id": 1,
+          "name": "In-progress"
+        },
+        "externalID": 1001,
+        "version": 1,
+        "stepsCompleted": [
+          {
+            "stepID": 1,
+            "title": "Introduction",
+            "stepType" : 1   
+          },
+          {
+            "stepID": 2,
+            "title": "First Step",
+            "stepType": 2   
+          }
+        ]
       },
       {
-        "name": "Yellow Hat",
-        "workflowStatusId": 2,
-        "workflowStatusName": "Published",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2019-11-06T00:14:34.783",
-        "modifiedOn": "2019-11-06T00:14:34.783",
-        "authorName": "Publisher af",
-        "id": 115,
-        "steps": ""
+        "id": 1,
+        "name": "Workflow One",
+        "description": "Sample description",
+        "assigneeID": 2,
+        "Assignee": {
+          "id": "d01b1d83-892a-45c3-ab2c-0212ebbf6f36",
+          "firstName": "Radial ",
+          "lastName": "One",
+          "client": "ABC Company"
+        },
+        "employeeID": 3,
+        "employee": {
+          "id": 5,
+          "firstName": "Employee",
+          "lastName": "Third",
+        },
+        "statusID": 1,
+        "status": {
+          "id": 1,
+          "name": "In-progress"
+        },
+        "externalID": 1001,
+        "version": 1,
+        "stepsCompleted": [
+          {
+            "stepID": 1,
+            "title": "Introduction",
+            "stepType" : 1   
+          },
+          {
+            "stepID": 2,
+            "title": "First Step",
+            "stepType": 2   
+          }
+        ]
       },
       {
-        "name": "Path test",
-        "workflowStatusId": 2,
-        "workflowStatusName": "Published",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2020-02-24T04:48:50.937",
-        "modifiedOn": "2020-03-05T04:43:41.003",
-        "authorName": "Publisher af",
-        "id": 121,
-        "steps": ""
-      },
-      {
-        "name": "Workflow IX",
-        "workflowStatusId": 1,
-        "workflowStatusName": "Draft",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2020-03-04T01:21:40.837",
-        "modifiedOn": "2020-03-04T23:49:54.06",
-        "authorName": "Publisher af",
-        "id": 129,
-        "steps": ""
-      },
-      {
-        "name": "Workflow101",
-        "workflowStatusId": 1,
-        "workflowStatusName": "Draft",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2020-03-08T22:55:26.843",
-        "modifiedOn": "2020-03-08T22:55:26.843",
-        "authorName": "Publisher af",
-        "id": 130,
-        "steps": 
+        "id": 1,
+        "name": "Workflow One",
+        "description": "Sample description",
+        "assigneeID": 2,
+        "Assignee": {
+          "id": "d01b1d83-892a-45c3-ab2c-0212ebbf6f36",
+          "firstName": "Example 2",
+          "lastName": "Two",
+          "client": "XYG Company"
+        },
+        "employeeID": 3,
+        "employee": {
+          "id": 5,
+          "firstName": "User One",
+          "lastName": "lastName",
+        },
+        "statusID": 1,
+        "status": {
+          "id": 2,
+          "name": "Completed"
+        },
+        "externalID": 1001,
+        "version": 1,
+        "stepsCompleted": [
+          {
+            "stepID": 1,
+            "title": "Introduction",
+            "stepType" : 1   
+          },
+          {
+            "stepID": 2,
+            "title": "First Step",
+            "stepType": 2   
+          }
+        ]
       }
-    ]
+  ],
 }
