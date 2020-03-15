@@ -4,6 +4,11 @@
     "expires_in": 1540263656,
     "token_type": "bearer"
   },
+  "workflow":{
+    "previous":"",
+    "next":"",
+    "save":""
+  },
   "workflows":[
       {
         "id": 1,
