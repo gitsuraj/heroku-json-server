@@ -4,8 +4,7 @@
     "expires_in": 1540263656,
     "token_type": "bearer"
   },
-  "workflow":{
-    "previous":[
+    "wPrevious":[
       {
         "id": 1,
         "title": "Welcome !!!",
@@ -117,7 +116,7 @@
         "nextStepType": null
       }
     ],
-    "next":[
+    "wNext":[
       {
         "id": 1,
         "title": "Welcome !!!",
@@ -229,8 +228,7 @@
         "nextStepType": null
       }
     ],
-    "save":""
-  },
+    "wSave":"",
   "workflows":[
       {
         "id": 1,
