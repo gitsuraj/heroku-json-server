@@ -337,288 +337,429 @@
         ]
       }
   ],
-  "workflowTemplate":[
+  "advisoryCourse":{
+    "tota;":12,
+    "rows": [
       {
-        "name": "Workflow by Daniel",
-        "workflowStatusId": 1,
-        "workflowStatusName": "Draft",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "id": 1038,
+        "name": "Dj Course",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
         "partnerCompanyName": "Crescendo Services",
         "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2019-09-18T04:11:19.99",
-        "modifiedOn": "2020-03-02T06:39:57.947",
         "authorName": "Publisher af",
-        "id": 103,
-        "steps": ""
+        "createdDate": "2020-03-23T02:23:15.993",
+        "modifiedBy": "00000000-0000-0000-0000-000000000000",
+        "modifiedByName": "",
+        "modifiedDate": "0001-01-01T00:00:00",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8771,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8772,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "name": "Yellow Hat",
-        "workflowStatusId": 2,
-        "workflowStatusName": "Published",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "id": 1035,
+        "name": "craig",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 4,
+        "categoryName": "Presentation",
+        "levelID": 4,
+        "levelName": "Expert",
+        "description": "<p>This description</p>",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
         "partnerCompanyName": "Crescendo Services",
         "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2019-11-06T00:14:34.783",
-        "modifiedOn": "2019-11-06T00:14:34.783",
         "authorName": "Publisher af",
-        "id": 115,
-        "steps": [
-      {
-        "id": 386,
-        "title": "Introduction",
-        "stepContentTypeID": 1,
-        "workflowDialogID": 38,
-        "message": "<p>Welcome</p>\n<p>etc</p>",
-        "connectors": [
-          {
-            "id": 38,
-            "caption": "Continue",
-            "nextStepType": "S",
-            "nextStepId": 387
-          }
+        "createdDate": "2019-11-07T01:28:24.43",
+        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "modifiedByName": "Publisher af",
+        "modifiedDate": "2020-03-02T02:40:30.98",
+        "countryId": [
+          13,
+          227,
+          97
         ],
-        "sortOrder": 1,
-        "nextStepID": 0,
-        "nextStepType": null
+        "courseImage": {
+          "fileId": 8566,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8567,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "id": 387,
-        "title": "Second Step",
-        "stepContentTypeID": 2,
-        "questions": [
-          {
-            "id": 56,
-            "questionTitle": "Question 1",
-            "questionGuide": "",
-            "questionType": "3",
-            "isWeighted": true,
-            "options": "[{\"value\":\"A\",\"weight\":10},{\"value\":\"B\",\"weight\":20},{\"value\":\"C\",\"weight\":30}]",
-            "mergeField": null
-          },
-          {
-            "id": 67,
-            "questionTitle": "Question option test",
-            "questionGuide": "<pre style=\"background-color: #2b2b2b; color: #a9b7c6; font-family: 'Menlo'; font-size: 9.0pt;\"><span style=\"color: #bababa;\">style</span><span style=\"color: #6a8759;\">=</span>{{<span style=\"color: #9876aa;\">width</span>: <span style=\"color: #6a8759;\">'80px'</span>}}</pre>",
-            "questionType": "3",
-            "isWeighted": true,
-            "options": "[{\"value\":\"A1m\",\"weight\":10},{\"value\":\"V2\",\"weight\":20},{\"value\":\"C3\",\"weight\":30}]",
-            "mergeField": null
-          },
-          {
-            "id": 78,
-            "questionTitle": "Stengths",
-            "questionGuide": "<p>Enter each strenght in a separate line.</p>",
-            "questionType": "2",
-            "isWeighted": false,
-            "options": "[{\"value\":\"\",\"weight\":0}]",
-            "mergeField": null
-          }
+        "id": 1033,
+        "name": "Course 10",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 4,
+        "categoryName": "Presentation",
+        "levelID": 4,
+        "levelName": "Expert",
+        "description": "<p>This is description</p>",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:35:32.973",
+        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "modifiedByName": "Publisher af",
+        "modifiedDate": "2020-03-23T00:26:32.5",
+        "countryId": [
+          156
         ],
-        "sortOrder": 2,
-        "nextStepID": 433,
-        "nextStepType": "S"
+        "courseImage": {
+          "fileId": 8520,
+          "fileName": "golf-course-background-flat-style_23-2147777090.jpg",
+          "filePath": "https://partnerportaldata001.blob.core.windows.net/file/14d751dc-c1aa-496d-8e62-a68e4f49e9af.jpg",
+          "mimeType": "image/jpeg",
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8521,
+          "fileName": "videoplayback.mp4",
+          "filePath": "https://partnerportaldata001.blob.core.windows.net/file/a192075f-d69e-4db7-bc8a-8ec043dc2fe3.mp4",
+          "mimeType": "video/mp4",
+          "duration": 110.132
+        }
       },
       {
-        "id": 388,
-        "title": "B",
-        "stepContentTypeID": 3,
-        "workflowContractID": 22,
-        "contractId": 782,
-        "sortOrder": 3,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 403,
-        "title": "Demo",
-        "stepContentTypeID": 7,
-        "defaultNextTypeType": null,
-        "defaultNextStepId": 0,
-        "rules": null,
-        "sortOrder": 4,
-        "stepTitle": null,
-        "questionTitle": null,
-        "nextStepTitle": null,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 422,
-        "title": "task lsit",
-        "stepContentTypeID": 6,
-        "sortOrder": 5,
-        "workflowStepID": 0,
-        "dueDateNumber": 0,
-        "dueDateDimension": null,
-        "assignedUserType": null,
-        "description": null,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 433,
-        "title": "The Document 123",
-        "stepContentTypeID": 5,
-        "description": null,
-        "fileId": 8549,
-        "fileName": "Untitled",
-        "filePath": "https://partnerportaldata001.blob.core.windows.net/file/236033f8-1ba7-40d1-a8f3-76a352336c08",
-        "mimeType": "application/octet-stream",
-        "sortOrder": 6,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 434,
-        "title": "Tasks",
-        "stepContentTypeID": 6,
-        "sortOrder": 7,
-        "workflowStepID": 0,
-        "dueDateNumber": 0,
-        "dueDateDimension": null,
-        "assignedUserType": null,
-        "description": null,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 453,
-        "title": "Another document",
-        "stepContentTypeID": 5,
-        "description": null,
-        "fileId": 8608,
-        "fileName": "Untitled",
-        "filePath": "https://partnerportaldata001.blob.core.windows.net/file/c37dbf42-793e-4f33-954f-c37d678f0768",
-        "mimeType": "application/octet-stream",
-        "sortOrder": 8,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 436,
-        "title": "Eval",
-        "stepContentTypeID": 7,
-        "defaultNextTypeType": null,
-        "defaultNextStepId": 0,
-        "rules": null,
-        "sortOrder": 9,
-        "stepTitle": null,
-        "questionTitle": null,
-        "nextStepTitle": null,
-        "nextStepID": 0,
-        "nextStepType": null
-      },
-      {
-        "id": 458,
-        "title": "test",
-        "stepContentTypeID": 2,
-        "questions": [
-          {
-            "id": 79,
-            "questionTitle": "hjkynnb",
-            "questionGuide": "",
-            "questionType": "3",
-            "isWeighted": true,
-            "options": "[{\"value\":\"test\",\"weight\":\"1\"},{\"value\":\"r5r\",\"weight\":\"2\"}]",
-            "mergeField": null
-          }
+        "id": 1032,
+        "name": "Course 9",
+        "statusID": 2,
+        "statusName": "Published",
+        "categoryID": 1,
+        "categoryName": "Multimedia",
+        "levelID": 3,
+        "levelName": "Starter",
+        "description": "<p>TExt HerE</p>",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:35:18.353",
+        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "modifiedByName": "Publisher af",
+        "modifiedDate": "2020-03-24T05:14:31.103",
+        "countryId": [
+          172,
+          227
         ],
-        "sortOrder": 10,
-        "nextStepID": 0,
-        "nextStepType": null
+        "courseImage": {
+          "fileId": 8518,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8519,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "id": 459,
-        "title": "eval",
-        "stepContentTypeID": 7,
-        "defaultNextTypeType": null,
-        "defaultNextStepId": 0,
-        "rules": null,
-        "sortOrder": 11,
-        "stepTitle": null,
-        "questionTitle": null,
-        "nextStepTitle": null,
-        "nextStepID": 436,
-        "nextStepType": "S"
+        "id": 1031,
+        "name": "Course 8",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:35:02.807",
+        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "modifiedByName": "Publisher af",
+        "modifiedDate": "2019-12-09T06:55:08.54",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8516,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8517,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "id": 460,
-        "title": "eee",
-        "stepContentTypeID": 2,
-        "questions": [],
-        "sortOrder": 12,
-        "nextStepID": 0,
-        "nextStepType": null
+        "id": 1030,
+        "name": "Course 7",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:34:49.657",
+        "modifiedBy": "00000000-0000-0000-0000-000000000000",
+        "modifiedByName": "",
+        "modifiedDate": "0001-01-01T00:00:00",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8514,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8515,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "id": 461,
-        "title": "etc",
-        "stepContentTypeID": 0,
-        "sortOrder": 13,
-        "nextStepID": 0,
-        "nextStepType": null
+        "id": 1029,
+        "name": "Course 6",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:34:35.067",
+        "modifiedBy": "00000000-0000-0000-0000-000000000000",
+        "modifiedByName": "",
+        "modifiedDate": "0001-01-01T00:00:00",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8512,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8513,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "id": 550,
-        "title": "test",
-        "stepContentTypeID": 0,
-        "sortOrder": 14,
-        "nextStepID": 0,
-        "nextStepType": null
+        "id": 1028,
+        "name": "Course Five",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:34:21.973",
+        "modifiedBy": "00000000-0000-0000-0000-000000000000",
+        "modifiedByName": "",
+        "modifiedDate": "0001-01-01T00:00:00",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8510,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8511,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
       },
       {
-        "id": 564,
-        "title": "Test",
-        "stepContentTypeID": 0,
-        "sortOrder": 15,
-        "nextStepID": 0,
-        "nextStepType": null
+        "id": 1027,
+        "name": "Course Four",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:33:57.377",
+        "modifiedBy": "00000000-0000-0000-0000-000000000000",
+        "modifiedByName": "",
+        "modifiedDate": "0001-01-01T00:00:00",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8508,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8509,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
+      },
+      {
+        "id": 1026,
+        "name": "Course Three",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:33:39.603",
+        "modifiedBy": "00000000-0000-0000-0000-000000000000",
+        "modifiedByName": "",
+        "modifiedDate": "0001-01-01T00:00:00",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8506,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8507,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
+      },
+      {
+        "id": 1024,
+        "name": "Course One",
+        "statusID": 1,
+        "statusName": "Draft",
+        "categoryID": 0,
+        "categoryName": null,
+        "levelID": 0,
+        "levelName": null,
+        "description": "",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-10-09T02:33:03.907",
+        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "modifiedByName": "Publisher af",
+        "modifiedDate": "2020-02-25T23:10:31.717",
+        "countryId": [],
+        "courseImage": {
+          "fileId": 8502,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8503,
+          "fileName": "---",
+          "filePath": null,
+          "mimeType": null,
+          "duration": 0.0
+        }
+      },
+      {
+        "id": 1023,
+        "name": "Facebook ADs",
+        "statusID": 2,
+        "statusName": "Published",
+        "categoryID": 1,
+        "categoryName": "Multimedia",
+        "levelID": 4,
+        "levelName": "Expert",
+        "description": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the&nbsp;</p>",
+        "partnerCompanyID": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
+        "partnerCompanyName": "Crescendo Services",
+        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "authorName": "Publisher af",
+        "createdDate": "2019-09-23T01:15:51.853",
+        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
+        "modifiedByName": "Publisher af",
+        "modifiedDate": "2019-10-09T00:49:16.957",
+        "countryId": [
+          13,
+          227
+        ],
+        "courseImage": {
+          "fileId": 8449,
+          "fileName": "0526ff0d-2a39-472e-bf07-f2dd3d4b9a8e.jpg",
+          "filePath": "https://partnerportaldata001.blob.core.windows.net/file/f912eaed-d324-4aa5-a538-cdf99727a1dd.jpg",
+          "mimeType": "image/jpeg",
+          "duration": 0.0
+        },
+        "promotionalVideo": {
+          "fileId": 8450,
+          "fileName": "y2mate.com - pip_a_short_animated_film_07d2dXHYb94_144p.mp4",
+          "filePath": "https://partnerportaldata001.blob.core.windows.net/file/865f5b21-efa6-4ef8-96a4-a28195eabad6.mp4",
+          "mimeType": "video/mp4",
+          "duration": 245.064
+        }
       }
     ]
-      },
-      {
-        "name": "Path test",
-        "workflowStatusId": 2,
-        "workflowStatusName": "Published",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2020-02-24T04:48:50.937",
-        "modifiedOn": "2020-03-05T04:43:41.003",
-        "authorName": "Publisher af",
-        "id": 121,
-        "steps": ""
-      },
-      {
-        "name": "Workflow IX",
-        "workflowStatusId": 1,
-        "workflowStatusName": "Draft",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2020-03-04T01:21:40.837",
-        "modifiedOn": "2020-03-04T23:49:54.06",
-        "authorName": "Publisher af",
-        "id": 129,
-        "steps": ""
-      },
-      {
-        "name": "Workflow101",
-        "workflowStatusId": 1,
-        "workflowStatusName": "Draft",
-        "partnerCompanyId": "ac1ec7e4-ba1d-45a5-41ee-08d6e40bd2c0",
-        "partnerCompanyName": "Crescendo Services",
-        "createdBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "modifiedBy": "b4e60f63-5624-497b-6d1a-08d6ea322efc",
-        "createdDate": "2020-03-08T22:55:26.843",
-        "modifiedOn": "2020-03-08T22:55:26.843",
-        "authorName": "Publisher af",
-        "id": 130,
-        "steps":""
-      }
-    ]
+  }
 }
