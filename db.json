@@ -761,5 +761,106 @@
         }
       }
     ]
-  }
+  },
+  "courses":[
+          {
+
+        "id": 1,
+        "name": "Course 101",
+        "employeeID": 101,
+        "employee": {
+          "id": 201,
+          "firstName": "First",
+          "lastName": "Last"
+        },
+        "statusID": 1,
+        "status": {
+          "id": 1,
+          "name": "Pending"
+        },
+        "clientID": 252,
+        "client": {
+          "id": 252,
+          "name": "Innovent host"
+        },
+        "courseCategoryID": 1,
+        "courseCategory": {
+          "id": 1,
+          "name": "Multimedia"
+
+        },
+        "externalID": 1001,
+        "version": 1,
+        "createdBy": {
+          "firstName": "Creator",
+          "lastName": "Lastname"
+        }
+      },
+          {
+
+          "id": 2,
+          "name": "Course 102",
+          "employeeID": 101,
+          "employee": {
+            "id": 201,
+            "firstName": "First",
+            "lastName": "Last"
+          },
+          "statusID": 2,
+          "status": {
+            "id": 2,
+            "name": "In Progress"
+          },
+          "clientID": 252,
+          "client": {
+            "id": 252,
+            "name": "Innovent host"
+          },
+          "courseCategoryID": 1,
+          "courseCategory": {
+            "id": 1,
+            "name": "Multimedia"
+
+          },
+          "externalID": 1001,
+          "version": 1,
+          "createdBy": {
+            "firstName": "Creator",
+            "lastName": "Lastname"
+          }
+        },
+        {
+
+          "id": 3,
+          "name": "Course 103",
+          "employeeID": 101,
+          "employee": {
+            "id": 201,
+            "firstName": "First",
+            "lastName": "Last"
+          },
+          "statusID": 3,
+          "status": {
+            "id": 3,
+            "name": "Completed"
+          },
+          "clientID": 252,
+          "client": {
+            "id": 252,
+            "name": "Innovent host"
+          },
+          "courseCategoryID": 1,
+          "courseCategory": {
+            "id": 1,
+            "name": "Multimedia"
+
+          },
+          "externalID": 1001,
+          "version": 1,
+          "createdBy": {
+            "firstName": "Creator",
+            "lastName": "Lastname"
+          }
+        }
+  ]
 }
