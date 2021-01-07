@@ -20,6 +20,59 @@
       "name": "Branch 2",
       "address": "52 Phillip St, Sydney"
     }
+  ],
+  "payrollcompliance": {
+    "total": 2,
+    "rows": [
+      {
+        "earningsLocation": "All",
+        "hours": "10646.7",
+        "grossEarnings": "8842044.01",
+        "preTaxDeductions": "35073",
+        "taxExemptEarnings": "255993",
+        "taxableEarnings": "8550976",
+        "payg": "2717701",
+        "stsl": "45523",
+        "sgSuper": "690979.72",
+        "employerContribution": "690979.72",
+        "netEarnings": "690979.72",
+        "employerLiabilities": "690979.72",
+        "grossSgSuper": "690979.72",
+        "totalDeduction": "690979.72"
+      },
+      {
+        "earningsLocation": "Location A",
+        "hours": "10646.7",
+        "grossEarnings": "8842044.01",
+        "preTaxDeductions": "35073",
+        "taxExemptEarnings": "255993",
+        "taxableEarnings": "8550976",
+        "payg": "2717701",
+        "stsl": "45523",
+        "sgSuper": "690979.72",
+        "employerContribution": "690979.72",
+        "netEarnings": "690979.72",
+        "employerLiabilities": "690979.72",
+        "grossSgSuper": "690979.72",
+        "totalDeduction": "690979.72"
+      }
+    ]
+  },
+  "payschedule": [
+    {
+      "id": 2,
+      "code": "Weekly",
+      "name": "Weekly"
+    },
+    {
+      "id": 3,
+      "code": "Monthly",
+      "name": "Monthly"
+    },
+    {
+      "id": 4,
+      "code": "Annually",
+      "name": "Annually"
+    }
   ]
-
 }
