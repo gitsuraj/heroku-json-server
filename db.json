@@ -74,5 +74,110 @@
       "code": "Annually",
       "name": "Annually"
     }
-  ]
+  ],
+  "payrollActivityChart":
+  {
+    "widgetData": {
+      "totalPayCost": "9533.023.73",
+      "netPay": "6041527.64",
+      "superAnnuation": "2763224.00",
+      "paygWitheld": "2763224.00",
+      "otherDeductions": "379292.37"
+    },
+    "ytdActivityData": [
+      {
+        "category": "Net Pay",
+        "location": "Location A",
+        "value": "379292.37"
+      },
+      {
+        "category": "Net Pay",
+        "location": "Location B",
+        "value": "379292.37"
+      },
+      {
+        "category": "Net Pay",
+        "location": "Location C",
+        "value": "379292.37"
+      },
+      {
+        "category": "PAYG Withheld",
+        "location": "Location A",
+        "percentage": "25.45%"
+      },
+      {
+        "category": "PAYG Withheld",
+        "location": "Location B",
+        "value": "379292.37"
+      },
+      {
+        "category": "PAYG Withheld",
+        "location": "Location C",
+        "value": "379292.37"
+      },
+      {
+        "category": "Superannuation",
+        "location": "Location A",
+        "value": "379292.37"
+      },
+      {
+        "category": "Superannuation",
+        "location": "Location B",
+        "value": "379292.37"
+      },
+      {
+        "category": "Superannuation",
+        "location": "Location C",
+        "value": "379292.37"
+      },
+      {
+        "category": "Other Deduction",
+        "location": "Location A",
+        "value": "379292.37"
+      },
+      {
+        "category": "Other Deduction",
+        "location": "Location B",
+        "value": "379292.37"
+      },
+      {
+        "category": "Other Deduction",
+        "location": "Location C",
+        "value": "379292.37"
+      }
+    ]
+  },
+  "varianceChart":
+
+  {
+    "totalRem": [
+      {
+        "expectedPay": 345.54,
+        "totalGross": 123.45,
+        "variance": 100,
+        "date": "2020-01"
+      },{
+        "expectedPay": 345.54,
+        "totalGross": 123.45,
+        "variance": 100,
+        "date": "2020-02"
+      },
+      {
+        "expectedPay": 345.54,
+        "totalGross": 123.45,
+        "variance": 100,
+        "date": "2020-03"
+      },
+      {
+        "expectedPay": 345.54,
+        "totalGross": 123.45,
+        "variance": 100,
+        "date": "2020-04"
+      }
+    ]
+  }
+
+
+
+
 }
