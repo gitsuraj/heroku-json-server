@@ -175,9 +175,77 @@
         "date": "2020-04"
       }
     ]
-  }
+  },
 
 
+  "agentDashboard": [
 
+    {
+
+      "name": "Expedo Tester",
+
+      "position": "Product Owner",
+
+      "workerReferenceID": null,
+
+      "onboardingSent": null,
+
+      "inviteAccepted": false,
+
+      "contractSigned": false,
+
+      "personalDetails": false,
+
+      "documents": false,
+
+      "approval": false
+
+    },
+
+    {
+
+      "name": "Expedo Tester",
+
+      "position": "Product Owner",
+
+      "workerReferenceID": null,
+
+      "onboardingSent": null,
+
+      "inviteAccepted": false,
+
+      "contractSigned": false,
+
+      "personalDetails": false,
+
+      "documents": false,
+
+      "approval": false
+
+    },
+
+    {
+
+      "name": "Expedo Tester",
+
+      "position": "Product Owner",
+
+      "workerReferenceID": null,
+
+      "onboardingSent": null,
+
+      "inviteAccepted": false,
+
+      "contractSigned": false,
+
+      "personalDetails": false,
+
+      "documents": false,
+
+      "approval": false
+
+    }
+
+  ]
 
 }
