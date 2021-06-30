@@ -246,6 +246,84 @@
 
     }
 
-  ]
+  ],
+
+  "assignments": {
+    "total": 73,
+    "rows": [
+
+      {
+
+        "id": 284,
+
+        "assignmentNo": null,
+
+        "workerReferenceID": null,
+
+        "assignmentName": "Test Company - Expedo Tester",
+
+        "employee": "Expedo Tester",
+
+        "advisor": "Bandit Recruiters - Agency",
+
+        "hostEmployer": "Test Company",
+
+        "isInactive": false,
+
+        "duration": "D",
+
+        "startDate": "2021-04-22T04:00:00",
+
+        "endDate": "2022-05-31T04:00:00",
+
+        "workRights": 1,
+
+        "licences": 1,
+
+        "status": 3,
+
+        "total": 73
+
+      },
+
+      {
+
+        "id": 283,
+
+        "assignmentNo": null,
+
+        "workerReferenceID": null,
+
+        "assignmentName": "Test Company - Expedo Tester",
+
+        "employee": "Expedo Tester",
+
+        "advisor": "Bandit Recruiters - Agency",
+
+        "hostEmployer": "Test Company",
+
+        "isInactive": false,
+
+        "duration": "D",
+
+        "startDate": "2021-04-22T04:00:00",
+
+        "endDate": "2022-05-31T04:00:00",
+
+        "workRights": 1,
+
+        "licences": 1,
+
+        "status": 3,
+
+        "total": 73
+
+      }
+
+
+
+    ],
+    "allIds": null
+  }
 
 }
