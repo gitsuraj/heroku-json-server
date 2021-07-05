@@ -248,82 +248,56 @@
 
   ],
 
-  "assignments": {
-    "total": 73,
-    "rows": [
+  "assignmentDetails": {
 
+    "id": 100,
+
+    "title": "First Assessment",
+
+    "totalQuestions": 10,
+
+    "mark": 7,
+
+    "passingMarks": 5,
+
+    "isPassed": true,
+
+    "questions":
+
+    [
       {
-
-        "id": 284,
-
-        "assignmentNo": null,
-
-        "workerReferenceID": null,
-
-        "assignmentName": "Test Company - Expedo Tester",
-
-        "employee": "Expedo Tester",
-
-        "advisor": "Bandit Recruiters - Agency",
-
-        "hostEmployer": "Test Company",
-
-        "isInactive": false,
-
-        "duration": "D",
-
-        "startDate": "2021-04-22T04:00:00",
-
-        "endDate": "2022-05-31T04:00:00",
-
-        "workRights": 1,
-
-        "licences": 1,
-
-        "status": 3,
-
-        "total": 73
-
+        "id": 20,
+        "title": "What is the best email marketing template?",
+        "guide": "<guide text goes here>",
+        "type": "T",
+        "answer": 2,
+        "assigneeAnswer": 3,
+        "options":
+        [
+          "first option",
+          "second",
+          "third",
+          "fourth"
+        ]
       },
-
       {
-
-        "id": 283,
-
-        "assignmentNo": null,
-
-        "workerReferenceID": null,
-
-        "assignmentName": "Test Company - Expedo Tester",
-
-        "employee": "Expedo Tester",
-
-        "advisor": "Bandit Recruiters - Agency",
-
-        "hostEmployer": "Test Company",
-
-        "isInactive": false,
-
-        "duration": "D",
-
-        "startDate": "2021-04-22T04:00:00",
-
-        "endDate": "2022-05-31T04:00:00",
-
-        "workRights": 1,
-
-        "licences": 1,
-
-        "status": 3,
-
-        "total": 73
-
+        "id": 21,
+        "title": "What is the best email marketing template?",
+        "guide": "<guide text goes here>",
+        "type": "Y",
+        "answer": 2,
+        "assigneeAnswer": 3,
+        "options":
+        [
+          "first option",
+          "second",
+          "third",
+          "fourth"
+        ]
       }
 
+    ]
 
-
-    ],
-    "allIds": null
   }
 
 }
